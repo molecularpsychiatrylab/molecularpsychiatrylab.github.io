@@ -1,9 +1,9 @@
 ---
 layout: member
 category: staff
-title: Researcher Name
+title: Shabeesh Balan
 image: researcher.png
-role: Lab Director
+role: Researcher
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
