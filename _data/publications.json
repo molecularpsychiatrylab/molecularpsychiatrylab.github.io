@@ -38,3 +38,252 @@
 		}
 	}
 ]
+
+{
+  "files": [
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/d4c7a5c5-6e65-4d68-8d65-fd8f7c672151/covid19kerala.info-data-4.4.0.zip"
+      }, 
+      "checksum": "md5:8d4d0d29245f6c2eb64cde18c556e163", 
+      "bucket": "d4c7a5c5-6e65-4d68-8d65-fd8f7c672151", 
+      "key": "covid19kerala.info-data-4.4.0.zip", 
+      "type": "zip", 
+      "size": 846568
+    }
+  ], 
+  "owners": [
+    101005
+  ], 
+  "doi": "10.5281/zenodo.4015953", 
+  "stats": {
+    "version_unique_downloads": 412.0, 
+    "unique_views": 2664.0, 
+    "views": 2743.0, 
+    "version_views": 8645.0, 
+    "unique_downloads": 88.0, 
+    "version_unique_views": 7743.0, 
+    "volume": 77037688.0, 
+    "version_downloads": 465.0, 
+    "downloads": 91.0, 
+    "version_volume": 110856291.0
+  }, 
+  "links": {
+    "doi": "https://doi.org/10.5281/zenodo.4015953", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.3818096", 
+    "bucket": "https://zenodo.org/api/files/d4c7a5c5-6e65-4d68-8d65-fd8f7c672151", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.3818096.svg", 
+    "html": "https://zenodo.org/record/4015953", 
+    "latest_html": "https://zenodo.org/record/4015953", 
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.4015953.svg", 
+    "latest": "https://zenodo.org/api/records/4015953"
+  }, 
+  "conceptdoi": "10.5281/zenodo.3818096", 
+  "created": "2020-09-05T09:49:59.123474+00:00", 
+  "updated": "2020-09-06T00:59:25.347090+00:00", 
+  "conceptrecid": "3818096", 
+  "revision": 2, 
+  "id": 4015953, 
+  "metadata": {
+    "access_right_category": "success", 
+    "doi": "10.5281/zenodo.4015953", 
+    "version": "4.4.0", 
+    "language": "eng", 
+    "title": "Covid19Kerala.info-Data: A collective open dataset of COVID-19 outbreak in the south Indian state of Kerala", 
+    "license": {
+      "id": "ODC-By-1.0"
+    }, 
+    "related_identifiers": [
+      {
+        "scheme": "url", 
+        "identifier": "https://github.com/CODD-K/covid19kerala.info-data/tree/v4.4.0", 
+        "relation": "isSupplementTo"
+      }, 
+      {
+        "scheme": "url", 
+        "identifier": "https://codd-k.github.io/covid19kerala.info-data/datapackage.json", 
+        "relation": "isSupplementedBy"
+      }, 
+      {
+        "scheme": "url", 
+        "identifier": "https://covid19kerala.info/", 
+        "relation": "isDerivedFrom"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.1101/2020.05.13.20092510", 
+        "relation": "isSourceOf"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.3818096", 
+        "relation": "isVersionOf"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 17, 
+          "index": 16, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "3818096"
+          }, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "4015953"
+          }
+        }
+      ]
+    }, 
+    "communities": [
+      {
+        "id": "codd-k"
+      }, 
+      {
+        "id": "covid-19"
+      }, 
+      {
+        "id": "zenodo"
+      }
+    ], 
+    "subjects": [
+      {
+        "term": "Kerala", 
+        "scheme": "url", 
+        "identifier": "https://www.wikidata.org/wiki/Q1186"
+      }, 
+      {
+        "term": "COVID-19", 
+        "scheme": "url", 
+        "identifier": "https://www.wikidata.org/wiki/Q84263196"
+      }, 
+      {
+        "term": "2020 coronavirus pandemic in Kerala", 
+        "scheme": "url", 
+        "identifier": "https://www.wikidata.org/wiki/Q87429464"
+      }, 
+      {
+        "term": "SARS-CoV-2", 
+        "scheme": "url", 
+        "identifier": "https://www.wikidata.org/wiki/Q82069695"
+      }, 
+      {
+        "term": "India", 
+        "scheme": "url", 
+        "identifier": "https://www.wikidata.org/wiki/Q668"
+      }, 
+      {
+        "term": "COVID-19 pandemic", 
+        "scheme": "url", 
+        "identifier": "https://www.wikidata.org/wiki/Q81068910"
+      }, 
+      {
+        "term": "SARS-CoV-2 dataset", 
+        "scheme": "url", 
+        "identifier": "https://www.wikidata.org/wiki/Q91137337"
+      }, 
+      {
+        "term": "COVID-19 dashboard", 
+        "scheme": "url", 
+        "identifier": "https://www.wikidata.org/wiki/Q90790055"
+      }
+    ], 
+    "references": [
+      "A citizen science initiative for open data and visualization of COVID-19 outbreak in Kerala, India Jijo Pulickiyil Ulahannan, NIkhil Narayanan, Nishad Thalhath, Prem Prabhakaran, Sreekanth Chaliyeduth, Sooraj P Suresh, Musfir Mohammed, Rajeevan E, Sindhu Joseph, Akhil Balakrishnan, Jeevan Uthaman, Manoj Karingamadathil, Sunil Thonikkuzhiyil Thomas, Unnikrishnan Sureshkumar, Shabeesh Balan, Neetha Nanoth Vellichirammal medRxiv 2020.05.13.20092510; doi: https://doi.org/10.1101/2020.05.13.20092510"
+    ], 
+    "keywords": [
+      "COVID-19", 
+      "SARS-Cov-2", 
+      "Kerala", 
+      "Open Data", 
+      "India"
+    ], 
+    "publication_date": "2020-09-05", 
+    "creators": [
+      {
+        "orcid": "0000-0002-5072-9700", 
+        "name": "Jijo\tUlahannan"
+      }, 
+      {
+        "orcid": "0000-0002-2146-1362", 
+        "name": "Nikhil Narayanan"
+      }, 
+      {
+        "orcid": "0000-0001-9147-2748", 
+        "name": "Sooraj P Suresh"
+      }, 
+      {
+        "orcid": "0000-0001-9845-9714", 
+        "name": "Nishad Thalhath"
+      }, 
+      {
+        "orcid": "0000-0001-8586-9263", 
+        "name": "Sreekanth Chaliyeduth"
+      }, 
+      {
+        "orcid": "0000-0003-4037-2207", 
+        "name": "Prem Prabhakaran"
+      }, 
+      {
+        "orcid": "0000-0001-6908-2815", 
+        "name": "Jeevan Uthaman"
+      }, 
+      {
+        "orcid": "0000-0003-2502-9099", 
+        "name": "Akhil Balakrishnan"
+      }, 
+      {
+        "orcid": "0000-0003-3885-6595", 
+        "name": "Manoj Karingamadathil"
+      }, 
+      {
+        "orcid": "0000-0002-8661-1042", 
+        "name": "Hritwik N Edavalath"
+      }, 
+      {
+        "orcid": "0000-0002-1098-1290", 
+        "name": "Shabeesh Balan"
+      }, 
+      {
+        "orcid": "0000-0002-5740-7093", 
+        "name": "Neetha Nanoth Vellichirammal"
+      }, 
+      {
+        "orcid": "0000-0002-5646-5451", 
+        "name": "Sharadh Manian"
+      }, 
+      {
+        "orcid": "0000-0002-2782-7417", 
+        "name": "Musfir Mohammed"
+      }, 
+      {
+        "orcid": "0000-0001-7677-9928", 
+        "name": "E Rajeevan"
+      }, 
+      {
+        "orcid": "0000-0002-5072-9700", 
+        "name": "Sindhu Joseph"
+      }, 
+      {
+        "orcid": "0000-0003-2218-2717", 
+        "name": "Sreehari\tPillai"
+      }, 
+      {
+        "orcid": "0000-0002-2210-0681", 
+        "name": "Unnikrishnan Sureshkumar"
+      }, 
+      {
+        "orcid": "0000-0002-6395-1511", 
+        "name": "Kumar Sujith"
+      }
+    ], 
+    "access_right": "open", 
+    "resource_type": {
+      "type": "dataset", 
+      "title": "Dataset"
+    }, 
+    "description": "<p>Covid19Kerala.info-Data is a consolidated multi-source open dataset of metadata from the COVID-19 outbreak in the Indian state of Kerala. It is created and maintained by volunteers of &lsquo;Collective for Open Data Distribution-Keralam&rsquo; (CODD-K), a nonprofit consortium of individuals formed for the distribution and longevity of open-datasets. Covid19Kerala.info-Data covers a set of correlated temporal and spatial metadata of SARS-CoV-2 infections and prevention measures in Kerala. Static releases of this dataset snapshots are manually produced from a live database maintained as a set of publicly accessible Google sheets. This dataset is made available under the Open Data Commons Attribution License v1.0 (ODC-BY 1.0).&nbsp;<br>\n<br>\n<strong>Schema and data package</strong><br>\nDatapackage with schema definition is accessible at&nbsp; <a href=\"https://codd-k.github.io/covid19kerala.info-data/datapackage.json\">https://codd-k.github.io/covid19kerala.info-data/datapackage.json</a>. Provided datapackage and schema are based on <a href=\"https://specs.frictionlessdata.io/data-package/\">Frictionless data Data Package specification</a>.</p>\n\n<p><strong>Temporal and Spatial Coverage&nbsp;</strong></p>\n\n<p>This dataset covers COVID-19 outbreak and related data from the state of Kerala, India, from January 31, 2020 till the date of the publication of this snapshot. The dataset shall be maintained throughout the entirety of the COVID-19 outbreak.&nbsp;&nbsp;</p>\n\n<p>The spatial coverage of the data lies within the geographical boundaries of the Kerala state which includes its 14 administrative subdivisions. The state is further divided into Local Self Governing (LSG) Bodies. Reference to this spatial information is included on appropriate data facets. Available spatial information on regions outside Kerala was mentioned, but it is limited as a reference to the possible origins of the infection clusters or movement of the individuals.&nbsp;&nbsp;</p>\n\n<p><strong>Longevity and Provenance&nbsp;</strong></p>\n\n<p>The dataset snapshot releases are published and maintained in a designated GitHub repository maintained by CODD-K team. Periodic snapshots from the live database will be released at regular intervals. The GitHub commit logs for the repository will be maintained as a record of provenance, and archived repository will be maintained at the end of the project lifecycle for the longevity of the dataset.</p>\n\n<p><strong>Data Stewardship&nbsp;</strong></p>\n\n<p>CODD-K expects all administrators, managers, and users of its datasets to manage, access, and utilize them in a manner that is consistent with the consortium&rsquo;s need for security and confidentiality and relevant legal frameworks within all geographies, especially Kerala and India. As a responsible steward to maintain and make this dataset accessible&mdash; CODD-K absolves from all liabilities of the damages, if any caused by inaccuracies in the dataset.&nbsp;</p>\n\n<p><strong>License&nbsp;</strong></p>\n\n<p>This dataset is made available by the CODD-K consortium under ODC-BY 1.0 license. The Open Data Commons Attribution License (ODC-By) v1.0 ensures that users of this dataset are free to copy, distribute and use the dataset to produce works and even to modify, transform and build upon the database, as long as they attribute the public use of the database or works produced from the same, as mentioned in the citation below.&nbsp;</p>\n\n<p><strong>Disclaimer&nbsp;</strong></p>\n\n<p>Covid19Kerala.info-Data is provided under the ODC-BY 1.0 license as-is. Though every attempt is taken to ensure that the data is error-free and up to date, the CODD-K consortium do not bear any responsibilities for inaccuracies in the dataset or any losses&mdash;monetary or otherwise&mdash;that users of this dataset may incur.&nbsp;</p>"
+  }
+}
