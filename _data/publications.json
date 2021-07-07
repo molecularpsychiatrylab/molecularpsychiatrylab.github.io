@@ -1,6 +1,2542 @@
 [
 	{
-		"id": "http://zotero.org/users/local/GMK9TCPq/items/46TZIC9W",
+		"id": "http://zotero.org/users/8251208/items/LTPQR3C9",
+		"type": "article-journal",
+		"abstract": "The penetrance of schizophrenia risk in carriers of the 22q11.2 deletion is high but incomplete, suggesting the possibility of additional genetic defects. We performed whole exome sequencing on two individuals with 22q11.2 deletion, one with schizophrenia and the other who was psychosis-free. The results revealed novel genetic variants related to neuronal function exclusively in the person with schizophrenia (frameshift: KAT8, APOH and SNX31; nonsense: EFCAB11 and CLVS2). This study paves the way towards a more complete understanding of variant dose and genetic architecture in schizophrenia.",
+		"container-title": "The British Journal of Psychiatry: The Journal of Mental Science",
+		"DOI": "10.1192/bjp.bp.113.138420",
+		"ISSN": "1472-1465",
+		"journalAbbreviation": "Br J Psychiatry",
+		"language": "eng",
+		"note": "PMID: 24482440",
+		"page": "398-399",
+		"source": "PubMed",
+		"title": "22q11.2 deletion carriers and schizophrenia-associated novel variants",
+		"volume": "204",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "S."
+			},
+			{
+				"family": "Iwayama",
+				"given": "Y."
+			},
+			{
+				"family": "Toyota",
+				"given": "T."
+			},
+			{
+				"family": "Toyoshima",
+				"given": "M."
+			},
+			{
+				"family": "Maekawa",
+				"given": "M."
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/EWITIA9P",
+		"type": "article-journal",
+		"abstract": "Given the complexity and heterogeneity of the genomic architecture underlying schizophrenia, molecular analyses of these patients with defined and large effect-size genomic defects could provide valuable clues. We established human-induced pluripotent stem cells from two schizophrenia patients with the 22q11.2 deletion (two cell lines from each subject, total of four cell lines) and three controls (total of four cell lines). Neurosphere size, neural differentiation efficiency, neurite outgrowth, cellular migration and the neurogenic-to-gliogenic competence ratio were significantly reduced in patient-derived cells. As an underlying mechanism, we focused on the role of DGCR8, a key gene for microRNA (miRNA) processing and mapped in the deleted region. In mice, Dgcr8 hetero-knockout is known to show a similar phenotype of reduced neurosphere size (Ouchi et al., 2013). The miRNA profiling detected reduced expression levels of miRNAs belonging to miR-17/92 cluster and miR-106a/b in the patient-derived neurospheres. Those miRNAs are reported to target p38α, and conformingly the levels of p38α were upregulated in the patient-derived cells. p38α is known to drive gliogenic differentiation. The inhibition of p38 activity by SB203580 in patient-derived neurospheres partially restored neurogenic competence. Furthermore, we detected elevated expression of GFAP, a gliogenic (astrocyte) marker, in postmortem brains from schizophrenia patients without the 22q11.2 deletion, whereas inflammation markers (IL1B and IL6) remained unchanged. In contrast, a neuronal marker, MAP2 expressions were decreased in schizophrenia brains. These results suggest that a dysregulated balance of neurogenic-to-gliogenic competence may underlie neurodevelopmental disorders such as schizophrenia.",
+		"container-title": "Translational Psychiatry",
+		"DOI": "10.1038/tp.2016.206",
+		"ISSN": "2158-3188",
+		"issue": "11",
+		"journalAbbreviation": "Transl Psychiatry",
+		"language": "eng",
+		"note": "PMID: 27801899\nPMCID: PMC5314118",
+		"page": "e934",
+		"source": "PubMed",
+		"title": "Analysis of induced pluripotent stem cells carrying 22q11.2 deletion",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Toyoshima",
+				"given": "M."
+			},
+			{
+				"family": "Akamatsu",
+				"given": "W."
+			},
+			{
+				"family": "Okada",
+				"given": "Y."
+			},
+			{
+				"family": "Ohnishi",
+				"given": "T."
+			},
+			{
+				"family": "Balan",
+				"given": "S."
+			},
+			{
+				"family": "Hisano",
+				"given": "Y."
+			},
+			{
+				"family": "Iwayama",
+				"given": "Y."
+			},
+			{
+				"family": "Toyota",
+				"given": "T."
+			},
+			{
+				"family": "Matsumoto",
+				"given": "T."
+			},
+			{
+				"family": "Itasaka",
+				"given": "N."
+			},
+			{
+				"family": "Sugiyama",
+				"given": "S."
+			},
+			{
+				"family": "Tanaka",
+				"given": "M."
+			},
+			{
+				"family": "Yano",
+				"given": "M."
+			},
+			{
+				"family": "Dean",
+				"given": "B."
+			},
+			{
+				"family": "Okano",
+				"given": "H."
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/8PLJKMZ3",
+		"type": "article-journal",
+		"abstract": "The risk of schizophrenia is increased in offspring whose mothers experience malnutrition during pregnancy. Polyunsaturated fatty acids (PUFAs) are dietary components that are crucial for the structural and functional integrity of neural cells, and PUFA deficiency has been shown to be a risk factor for schizophrenia. Here, we show that gestational and early postnatal dietary deprivation of two PUFAs-arachidonic acid (AA) and docosahexaenoic acid (DHA)-elicited schizophrenia-like phenotypes in mouse offspring at adulthood. In the PUFA-deprived mouse group, we observed lower motivation and higher sensitivity to a hallucinogenic drug resembling the prodromal symptoms in schizophrenia. Furthermore, a working-memory task-evoked hyper-neuronal activity in the medial prefrontal cortex was also observed, along with the downregulation of genes in the prefrontal cortex involved in oligodendrocyte integrity and the gamma-aminobutyric acid (GABA)-ergic system. Regulation of these genes was mediated by the nuclear receptor genes Rxr and Ppar, whose promoters were hyper-methylated by the deprivation of dietary AA and DHA. In addition, the RXR agonist bexarotene upregulated oligodendrocyte- and GABA-related gene expression and suppressed the sensitivity of mice to the hallucinogenic drug. Notably, the expression of these nuclear receptor genes were also downregulated in hair-follicle cells from schizophrenia patients. These results suggest that PUFA deficiency during the early neurodevelopmental period in mice could model the prodromal state of schizophrenia through changes in the epigenetic regulation of nuclear receptor genes.",
+		"container-title": "Translational Psychiatry",
+		"DOI": "10.1038/tp.2017.182",
+		"ISSN": "2158-3188",
+		"issue": "9",
+		"journalAbbreviation": "Transl Psychiatry",
+		"language": "eng",
+		"note": "PMID: 28872641\nPMCID: PMC5639238",
+		"page": "e1229",
+		"source": "PubMed",
+		"title": "Polyunsaturated fatty acid deficiency during neurodevelopment in mice models the prodromal state of schizophrenia through epigenetic changes in nuclear receptor genes",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Maekawa",
+				"given": "M."
+			},
+			{
+				"family": "Watanabe",
+				"given": "A."
+			},
+			{
+				"family": "Iwayama",
+				"given": "Y."
+			},
+			{
+				"family": "Kimura",
+				"given": "T."
+			},
+			{
+				"family": "Hamazaki",
+				"given": "K."
+			},
+			{
+				"family": "Balan",
+				"given": "S."
+			},
+			{
+				"family": "Ohba",
+				"given": "H."
+			},
+			{
+				"family": "Hisano",
+				"given": "Y."
+			},
+			{
+				"family": "Nozaki",
+				"given": "Y."
+			},
+			{
+				"family": "Ohnishi",
+				"given": "T."
+			},
+			{
+				"family": "Toyoshima",
+				"given": "M."
+			},
+			{
+				"family": "Shimamoto",
+				"given": "C."
+			},
+			{
+				"family": "Iwamoto",
+				"given": "K."
+			},
+			{
+				"family": "Bundo",
+				"given": "M."
+			},
+			{
+				"family": "Osumi",
+				"given": "N."
+			},
+			{
+				"family": "Takahashi",
+				"given": "E."
+			},
+			{
+				"family": "Takashima",
+				"given": "A."
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/58TDB28Z",
+		"type": "article-journal",
+		"abstract": "Multidrug resistance is one of the most serious problems in the treatment of epilepsy that is likely to have a complex genetic and acquired basis. Various experimental data support the hypothesis that over-expression of antiepileptic drug (AED) transporters may play a pivotal role in drug resistance. Hyyt 6however, key questions concerning their functionality remain unanswered. The idea that P-glycoprotein, encoded by the ABCB1 gene, might mediate at least part of the drug resistance was met with both enthusiasm and skepticism. As in oncology, initial optimism has been clouded subsequently by conflicting results. The first study reporting a positive association between genetic variation in the P-glycoprotein and multidrug-resistant epilepsy was published in 2003. Since then, several other genetic association studies have attempted to verify this result. However, taken overall, the role of P-glycoprotein in drug resistance in epilepsy still remains uncertain. We intend to critically review the inherent problems associated with epilepsy pharmacogenetic studies in general and with ABCB1 polymorphisms studies in particular. The lessons learnt from the ABCB1 studies can help us to guide future association genetics studies to investigate AED resistance, and thereby taking us closer to the cherished dream of personalized AED therapy.",
+		"container-title": "Indian Journal of Human Genetics",
+		"DOI": "10.4103/0971-6866.80353",
+		"ISSN": "0971-6866",
+		"journalAbbreviation": "Indian J Hum Genet",
+		"language": "eng",
+		"note": "PMID: 21747582\nPMCID: PMC3125047",
+		"page": "S12-21",
+		"source": "PubMed",
+		"title": "Drug resistance in epilepsy and the ABCB1 gene: The clinical perspective",
+		"title-short": "Drug resistance in epilepsy and the ABCB1 gene",
+		"volume": "17 Suppl 1",
+		"author": [
+			{
+				"family": "Das",
+				"given": "Abhijit"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Banerjee",
+				"given": "Moinak"
+			},
+			{
+				"family": "Radhakrishnan",
+				"given": "Kurupath"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/QUCBYXLG",
+		"type": "article-journal",
+		"abstract": "BACKGROUND: Complex network of pro and anti-inflammatory cytokines are known to act in inflamed periodontal tissue. This study explores the distribution of interleukin (IL)-4 (+33 C/T) and IL-17F (7383A/G, 7488A/G) gene polymorphism in chronic and aggressive periodontitis subjects of Dravidian ethnicity.\nMATERIALS AND METHODS: This case control study consisted of 124 periodontitis individuals comprising of 63 chronic and 61 aggressive periodontitis subjects as cases, and control group consisted of 101 healthy subjects. All subjects were genotyped for IL-4 + 33C/T, IL-17F 7383A/G, 7488A/G by polymerase chain reaction amplification followed by TaqMan assay for IL-4 + 33C/T, restriction enzyme digestion and gel electrophoresis for IL-17F 7383A/G and sequencing for IL-17F 7488A/G.\nRESULTS: IL-4 + 33C/T was significantly associated with periodontitis (P < 0.05) at both allelic and genotypic level. In subgroup analysis also significant difference (P < 0.05) in allelic distribution between aggressive periodontitis and control group for loci IL-4 + 33C/T was noted. However, there was a lack of association between IL-17F 7383A/G and IL-17F 7488A/G with periodontitis and its sub-groups at both allelic and genotypic levels.\nCONCLUSIONS: In Malayalam speaking Dravidian population IL-4 + 33C/T loci appears to be an important risk factor for periodontal disease with a leaning towards aggressive periodontitis. The association between IL-17F at 7383A/G and 7488A/G loci with either chronic or an aggressive periodontitis could not be ascertained.",
+		"container-title": "Indian Journal of Human Genetics",
+		"DOI": "10.4103/0971-6866.112891",
+		"ISSN": "0971-6866",
+		"issue": "1",
+		"journalAbbreviation": "Indian J Hum Genet",
+		"language": "eng",
+		"note": "PMID: 23901194\nPMCID: PMC3722631",
+		"page": "58-64",
+		"source": "PubMed",
+		"title": "Association of interleukin-4 and interleukin-17F polymorphisms in periodontitis in Dravidian ethnicity",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Jain",
+				"given": "Nidhi"
+			},
+			{
+				"family": "Joseph",
+				"given": "Rosamma"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Arun",
+				"given": "R."
+			},
+			{
+				"family": "Banerjee",
+				"given": "Moinak"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/BGSN2LKR",
+		"type": "article-journal",
+		"abstract": "The post-synaptic density (PSD) of glutamatergic synapses harbors a multitude of proteins critical for maintaining synaptic dynamics. Alteration of protein expression levels in this matrix is a marked phenomenon of neuropsychiatric disorders including schizophrenia, where cognitive functions are impaired. To investigate the genetic relationship of genes expressed in the PSD with schizophrenia, a family-based association analysis of genetic variants in PSD genes such as DLG4, DLG1, PICK1 and MDM2, was performed, using Japanese samples (124 pedigrees, n = 376 subjects). Results showed a significant association of the rs17203281 variant from the DLG4 gene, with preferential transmission of the C allele (p = 0.02), although significance disappeared after correction for multiple testing. Replication analysis of this variant, found no association in a Chinese schizophrenia cohort (293 pedigrees, n = 1163 subjects) or in a Japanese case-control sample (n = 4182 subjects). The DLG4 expression levels between postmortem brain samples from schizophrenia patients showed no significant changes from controls. Interestingly, a five marker haplotype in DLG4, involving rs2242449, rs17203281, rs390200, rs222853 and rs222837, was enriched in a population specific manner, where the sequences A-C-C-C-A and G-C-C-C-A accumulated in Japanese (p = 0.0009) and Chinese (p = 0.0007) schizophrenia pedigree samples, respectively. However, this could not be replicated in case-control samples. None of the variants in other examined candidate genes showed any significant association in these samples. The current study highlights a putative role for DLG4 in schizophrenia pathogenesis, evidenced by haplotype association, and warrants further dense screening for variants within these haplotypes.",
+		"container-title": "PloS One",
+		"DOI": "10.1371/journal.pone.0070302",
+		"ISSN": "1932-6203",
+		"issue": "7",
+		"journalAbbreviation": "PLoS One",
+		"language": "eng",
+		"note": "PMID: 23936182\nPMCID: PMC3723755",
+		"page": "e70302",
+		"source": "PubMed",
+		"title": "Population-specific haplotype association of the postsynaptic density gene DLG4 with schizophrenia, in family-based association studies",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Yamada",
+				"given": "Kazuo"
+			},
+			{
+				"family": "Hattori",
+				"given": "Eiji"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Iwata",
+				"given": "Yasuhide"
+			},
+			{
+				"family": "Suzuki",
+				"given": "Katsuaki"
+			},
+			{
+				"family": "Kikuchi",
+				"given": "Mitsuru"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/M2QXFS5X",
+		"type": "article-journal",
+		"abstract": "BACKGROUND: Mesial temporal lobe epilepsy (MTLE) is the most common medically refractory epilepsy syndrome in adults, and hippocampal sclerosis (HS) is the most frequently encountered lesion in patients with MTLE. Premature accumulation of corpora amylacea (CoA), which plays an important role in the sequestration of toxic cellular metabolites, is found in the hippocampus of 50-60% of the patients who undergo surgery for medically refractory MTLE-HS. However, the etiopathogenesis and clinical importance of this phenomenon are still uncertain. The ABCB1 gene product P-glycoprotein (P-gp) plays a prominent role as an antiapoptotic factor in addition to its efflux transporter function. ABCB1 polymorphism has been found to be associated with downregulation of P-gp expression. We hypothesized that a similar polymorphism will be found in patients with CoA deposition, as the polymorphism predisposes the hippocampal neuronal and glial cells to seizure-induced excitotoxic damage and CoA formation ensues as a buffer response.\nMATERIALS AND METHODS: We compared five single nucleotide polymorphisms in the ABCB1 gene Ex06+139C/T (rs1202168), Ex 12 C1236T (rs1128503), Ex 17-76T/A (rs1922242), Ex 21 G2677T/A (rs2032582), Ex26 C3435T (rs1045642) among 46 MTLE-HS patients of south Indian ancestry with and without CoA accumulation.\nRESULTS: We found that subjects carrying the Ex-76T/A polymorphism (TA genotype) had a five-times higher risk of developing CoA accumulation than subjects without this genotype (Odds ratio 5.0, 95% confidence intervals 1.34-18.55; P = 0.016).\nCONCLUSION: We speculate that rs1922242 polymorphism results in the downregulation of P-gp function, which predisposes the hippocampal cells to seizure-induced apoptosis, and CoA gets accumulated as a buffer response.",
+		"container-title": "Indian Journal of Human Genetics",
+		"DOI": "10.4103/0971-6866.80358",
+		"ISSN": "0971-6866",
+		"journalAbbreviation": "Indian J Hum Genet",
+		"language": "eng",
+		"note": "PMID: 21747587\nPMCID: PMC3125046",
+		"page": "S41-47",
+		"source": "PubMed",
+		"title": "Corpora amylacea deposition in the hippocampus of patients with mesial temporal lobe epilepsy: A new role for an old gene?",
+		"title-short": "Corpora amylacea deposition in the hippocampus of patients with mesial temporal lobe epilepsy",
+		"volume": "17 Suppl 1",
+		"author": [
+			{
+				"family": "Das",
+				"given": "Abhijit"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Mathew",
+				"given": "Anila"
+			},
+			{
+				"family": "Radhakrishnan",
+				"given": "Venkataraman"
+			},
+			{
+				"family": "Banerjee",
+				"given": "Moinak"
+			},
+			{
+				"family": "Radhakrishnan",
+				"given": "Kurupath"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/K7N5XB2P",
+		"type": "article-journal",
+		"abstract": "We compared the allele and genotype frequencies of SCN1A SNP rs3812718 between patients with MTLE-HS of south Indian ancestry with and without febrile seizures (FS) and with ethnically matched controls. While we observed no significant difference in allele and genotype frequencies of rs3812718 between MTLE-HS patients with and without FS, A allele and AA genotype were overrepresented in MTLE-HS patients when compared to controls. We conclude that in the population studied, although rs3812718 polymorphism increases the susceptibility to MTLE-HS, this is not by increasing the susceptibility to FS.",
+		"container-title": "Epilepsy Research",
+		"DOI": "10.1016/j.eplepsyres.2012.04.009",
+		"ISSN": "1872-6844",
+		"issue": "3",
+		"journalAbbreviation": "Epilepsy Res",
+		"language": "eng",
+		"note": "PMID: 22578703",
+		"page": "288-292",
+		"source": "PubMed",
+		"title": "Failure to find association between febrile seizures and SCN1A rs3812718 polymorphism in south Indian patients with mesial temporal lobe epilepsy and hippocampal sclerosis",
+		"volume": "101",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Vellichirammal",
+				"given": "Neetha Nanoth"
+			},
+			{
+				"family": "Banerjee",
+				"given": "Moinak"
+			},
+			{
+				"family": "Radhakrishnan",
+				"given": "Kurupath"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/96UASK7I",
+		"type": "article-journal",
+		"abstract": "AIM: The conventional practice of using trial and error mode to select antipsychotic drugs in treatment of schizophrenia can result in symptom exacerbations, relapse and severe side effects, resulting in higher costs of treatment. P-glycoprotein (ABCB1) is known to regulate the concentration of antipsychotic drugs in the brain. Variable expressivity based on polymorphism in the gene ABCB1 may reflect on the drug response and its relationship to dosage.\nMATERIALS & METHODS: All antipsychotic dosages administered to patients were converted to common chlorpromazine equivalents. Response to antipsychotics was based on 50% cutoff in Brief Psychiatric Rating Scale ratings after 1-year of follow-up. Using a case-control study design, ABCB1 polymorphisms were screened in 192 individuals grouped into responders and nonresponders.\nRESULTS: A strong allelic, genotypic and haplotypic association, was observed, which was predictive of good response to antipsychotics. Individuals carrying the favorable homozygous genotypes of rs1045642 and rs2032582 displayed better response with increased dosage while those carrying risk genotype manifested refractoriness on increased dosage.\nCONCLUSION: The study suggests that a priori knowledge of ABCB1 genotypes can provide a significant input into evaluating the patient's response to medication, and minimizing redundant dosing and refractoriness.",
+		"container-title": "Pharmacogenomics",
+		"DOI": "10.2217/pgs.12.86",
+		"ISSN": "1744-8042",
+		"issue": "10",
+		"journalAbbreviation": "Pharmacogenomics",
+		"language": "eng",
+		"note": "PMID: 22909202",
+		"page": "1119-1127",
+		"source": "PubMed",
+		"title": "Antipsychotic drug dosage and therapeutic response in schizophrenia is influenced by ABCB1 genotypes: a study from a south Indian perspective",
+		"title-short": "Antipsychotic drug dosage and therapeutic response in schizophrenia is influenced by ABCB1 genotypes",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Vijayan",
+				"given": "Neetha N."
+			},
+			{
+				"family": "Mathew",
+				"given": "Anila"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Natarajan",
+				"given": "Chandrasekhar"
+			},
+			{
+				"family": "Nair",
+				"given": "Chandrashekharan M."
+			},
+			{
+				"family": "Allencherry",
+				"given": "Priya M."
+			},
+			{
+				"family": "Banerjee",
+				"given": "Moinak"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/PG9C7DEC",
+		"type": "article-journal",
+		"abstract": "The early growth response gene 2 (EGR2) has been recently reported to be associated with bipolar disorder in the Korean population. However replication studies in independent cohorts of same and different ethnicities are essential for establishing the credibility of a genotype-phenotype association. With this notion, in the present study we have performed a replication study of the reported association of SNPs in EGR2 in a case-control study comprising of 867 unrelated Japanese bipolar disorder patients and 895 age-, sex- and ethnicity-matched controls. Results showed no significant differences in allele and genotype frequencies of EGR2 SNPs between bipolar disorder patients and controls and also in a sex-stratified genetic analysis. The haplotype and meta-analyses also showed no significant association with bipolar disorder. In conclusion, this is the first replication study of the previously reported association of EGR2 with bipolar disorder in a larger sample set and the results showed that the EGR2 gene is unlikely to contribute to the susceptibility of bipolar disorder in a Japanese cohort.",
+		"container-title": "Gene",
+		"DOI": "10.1016/j.gene.2013.05.055",
+		"ISSN": "1879-0038",
+		"issue": "2",
+		"journalAbbreviation": "Gene",
+		"language": "eng",
+		"note": "PMID: 23747400",
+		"page": "246-250",
+		"source": "PubMed",
+		"title": "Lack of association of EGR2 variants with bipolar disorder in Japanese population",
+		"volume": "526",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Yamada",
+				"given": "Kazuo"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Iwata",
+				"given": "Yasuhide"
+			},
+			{
+				"family": "Suzuki",
+				"given": "Katsuaki"
+			},
+			{
+				"family": "Kikuchi",
+				"given": "Mitsuru"
+			},
+			{
+				"family": "Ujike",
+				"given": "Hiroshi"
+			},
+			{
+				"family": "Inada",
+				"given": "Toshiya"
+			},
+			{
+				"family": "Kunugi",
+				"given": "Hiroshi"
+			},
+			{
+				"family": "Ozaki",
+				"given": "Norio"
+			},
+			{
+				"family": "Iwata",
+				"given": "Nakao"
+			},
+			{
+				"family": "Nanko",
+				"given": "Shinichiro"
+			},
+			{
+				"family": "Kato",
+				"given": "Tadafumi"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					9,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/TEJRXA9R",
+		"type": "article-journal",
+		"abstract": "The human major vault protein (MVP) has been implicated in the development of drug resistance in cancer cells. Over expression of MVP has also been reported in brain tissue samples from antiepileptic drug (AED)-resistant human focal epilepsies. To investigate the relationship between single nucleotide polymorphisms (SNPs) involving the MVP gene and AED-resistance, we compared the distribution of three SNPs in the MVP gene, rs4788187, rs3815824 and rs3815823, among 220 patients with mesial temporal lobe epilepsy with hippocampal sclerosis (MTLE-HS) (prototype of AED-resistant epilepsy syndrome), 201 patients with juvenile myoclonic epilepsy (JME) (prototype of AED-responsive epilepsy syndrome) and 213 ethnically matched non-epilepsy controls. All the patients and controls were residents of the South Indian state of Kerala for more than three generations. We did not find any significant difference in allele and genotypic frequencies of the studied SNPs between AED-resistant and AED-responsive cohorts, and between AED-resistant and AED-responsive cohorts independently and pooled together when compared with the controls. We conclude that rs4788187, rs3815824, rs3815823 variants of the MVP gene are associated neither with predisposition for epilepsy nor with AED-resistance in the population that we have studied. Our results suggest the need for further research into the link between MVP and AED-resistance.",
+		"container-title": "Gene",
+		"DOI": "10.1016/j.gene.2013.05.067",
+		"ISSN": "1879-0038",
+		"issue": "2",
+		"journalAbbreviation": "Gene",
+		"language": "eng",
+		"note": "PMID: 23751308",
+		"page": "449-453",
+		"source": "PubMed",
+		"title": "Major vault protein (MVP) gene polymorphisms and drug resistance in mesial temporal lobe epilepsy with hippocampal sclerosis",
+		"volume": "526",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Radhab",
+				"given": "Saradalekshmi Koramannil"
+			},
+			{
+				"family": "Radha",
+				"given": "Koramannil"
+			},
+			{
+				"family": "Sathyan",
+				"given": "Sanish"
+			},
+			{
+				"family": "Vijai",
+				"given": "Joseph"
+			},
+			{
+				"family": "Banerjee",
+				"given": "Moinak"
+			},
+			{
+				"family": "Radhakrishnan",
+				"given": "Kurupath"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					9,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/YN5HSYJ9",
+		"type": "article-journal",
+		"abstract": "OBJECTIVE: Several antiepileptic drugs (AEDs) are known to target the GABA(A) receptor through positive allosteric modulation of the receptors, thereby enhancing GABA(A) receptor-mediated inhibition. The large diversity of GABA(A) receptors has been reported in the central nervous system; some of these have been implicated in epilepsy susceptibility and AED resistance, which we aimed to examine.\nMATERIALS AND METHODS: We investigated the association of single-nucleotide polymorphisms in GABA(A) receptor subunit subtype genes namely; rs2279020 (GABRA1), rs3219151 (GABRA6), rs2229944 (GABRB2), and rs211037 (GABRG2) with predisposition to epilepsy and AED resistance. This was assessed in three cohorts of ethnically matched South Indian ancestry: mesial temporal lobe epilepsy with hippocampal sclerosis (MTLE-HS) (prototype of AED-resistant epilepsy syndrome), juvenile myoclonic epilepsy (prototype of AED-responsive epilepsy syndrome), and nonepilepsy controls.\nRESULTS: A significant allelic (P=0.0006, odds ratio=1.6, 95% confidence interval=1.22-2.08) and genotypic (P=0.001) association of a synonymous variant in GABRG2, rs211037 (Asn196Asn) was observed with epilepsy irrespective of its phenotype, that is, MTLE-HS or juvenile myoclonic epilepsy. However, this association was not retained in epilepsy patients with a history of febrile seizures. The GABA(A) receptor subunit subtype genes were not found to have any association with AED resistance. In-silico analysis indicated that rs211037 plays a significant role in the transcriptional regulation and splicing regulation.\nCONCLUSION: We could substantiate that among the GABA(A) receptor subunit gene cluster polymorphisms, the GABRG2, rs211037 predisposes susceptibility to epilepsy, irrespective of its phenotype, but not to AED resistance.",
+		"container-title": "Pharmacogenetics and Genomics",
+		"DOI": "10.1097/FPC.0000000000000000",
+		"ISSN": "1744-6880",
+		"issue": "11",
+		"journalAbbreviation": "Pharmacogenet Genomics",
+		"language": "eng",
+		"note": "PMID: 24061200",
+		"page": "605-610",
+		"source": "PubMed",
+		"title": "GABRG2, rs211037 is associated with epilepsy susceptibility, but not with antiepileptic drug resistance and febrile seizures",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Sathyan",
+				"given": "Sanish"
+			},
+			{
+				"family": "Radha",
+				"given": "Saradalekshmi K."
+			},
+			{
+				"family": "Joseph",
+				"given": "Vijai"
+			},
+			{
+				"family": "Radhakrishnan",
+				"given": "Kurupath"
+			},
+			{
+				"family": "Banerjee",
+				"given": "Moinak"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/L8628XZW",
+		"type": "article-journal",
+		"abstract": "Disruption of synaptic networks has been advocated in the pathogenesis of psychiatric diseases like schizophrenia. The majority of synaptic proteins involved in neuronal communications are localized in lipid rafts. These rafts form the platform for coordinating neuronal signal transduction, by clustering interacting partners. The PAG1 protein is a transmembrane adaptor protein in the lipid raft signaling cluster that regulates Src family kinases (SFKs), a convergent point for multiple pathways regulating N-methyl-D-aspartate (NMDA) receptors. Reports of de novo missense mutations in PAG1 and SFK mediated reductions in tyrosine phosphorylation of NMDA receptor subunit proteins in schizophrenia patients, point to a putative role in schizophrenia pathogenesis. To evaluate this, we resequenced the entire coding region of PAG1 in Japanese schizophrenia patients (n = 1,140) and controls (n = 1,140). We identified eight missense variants, of which four were previously unreported. Case-control genetic association analysis of these variants in a larger cohort (n = 4,182) showed neither a statistically significant association of the individual variants with schizophrenia, nor any increased burden of the rare alleles in the patient group. Expression levels of PAG1 in post-mortem brain samples from schizophrenia patients and controls also showed no significant differences. To assess the precise role of PAG1 in schizophrenia, future studies with larger sample sizes are needed.",
+		"container-title": "Journal of Neural Transmission (Vienna, Austria: 1996)",
+		"DOI": "10.1007/s00702-014-1269-0",
+		"ISSN": "1435-1463",
+		"issue": "3",
+		"journalAbbreviation": "J Neural Transm (Vienna)",
+		"language": "eng",
+		"note": "PMID: 25005592",
+		"page": "477-485",
+		"source": "PubMed",
+		"title": "Sequencing and expression analyses of the synaptic lipid raft adapter gene PAG1 in schizophrenia",
+		"volume": "122",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Yamada",
+				"given": "Kazuo"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Shimamoto",
+				"given": "Chie"
+			},
+			{
+				"family": "Ide",
+				"given": "Masayuki"
+			},
+			{
+				"family": "Iwata",
+				"given": "Yasuhide"
+			},
+			{
+				"family": "Suzuki",
+				"given": "Katsuaki"
+			},
+			{
+				"family": "Kikuchi",
+				"given": "Mitsuru"
+			},
+			{
+				"family": "Hashimoto",
+				"given": "Tasuku"
+			},
+			{
+				"family": "Kanahara",
+				"given": "Nobuhisa"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/LZQI7L59",
+		"type": "article-journal",
+		"abstract": "BACKGROUND: Identifying beneficial surrogate genetic markers in psychiatric disorders is crucial but challenging.\nMETHODS: Given that scalp hair follicles are easily accessible and, like the brain, are derived from the ectoderm, expressions of messenger RNA (mRNA) and microRNA in the organ were examined between schizophrenia (n for first/second = 52/42) and control subjects (n = 62/55) in two sets of cohort. Genes of significance were also analyzed using postmortem brains (n for case/control = 35/35 in Brodmann area 46, 20/20 in cornu ammonis 1) and induced pluripotent stem cells (n = 4/4) and pluripotent stem cell-derived neurospheres (n = 12/12) to see their role in the central nervous system. Expression levels of mRNA for autism (n for case/control = 18/24) were also examined using scalp hair follicles.\nRESULTS: Among mRNA examined, FABP4 was downregulated in schizophrenia subjects by two independent sample sets. Receiver operating characteristic curve analysis determined that the sensitivity and specificity were 71.8% and 66.7%, respectively. FABP4 was expressed from the stage of neurosphere. Additionally, microarray-based microRNA analysis showed a trend of increased expression of hsa-miR-4449 (p = .0634) in hair follicles from schizophrenia. hsa-miR-4449 expression was increased in Brodmann area 46 from schizophrenia (p = .0007). Finally, we tested the expression of nine putative autism candidate genes in hair follicles and found decreased CNTNAP2 expression in the autism cohort.\nCONCLUSIONS: Scalp hair follicles could be a beneficial genetic biomarker resource for brain diseases, and further studies of FABP4 are merited in schizophrenia pathogenesis.",
+		"container-title": "Biological Psychiatry",
+		"DOI": "10.1016/j.biopsych.2014.07.025",
+		"ISSN": "1873-2402",
+		"issue": "2",
+		"journalAbbreviation": "Biol Psychiatry",
+		"language": "eng",
+		"note": "PMID: 25444170",
+		"page": "116-125",
+		"source": "PubMed",
+		"title": "Utility of Scalp Hair Follicles as a Novel Source of Biomarker Genes for Psychiatric Illnesses",
+		"volume": "78",
+		"author": [
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Yamada",
+				"given": "Kazuo"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Shimamoto",
+				"given": "Chie"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Nozaki",
+				"given": "Yayoi"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Matsuzaki",
+				"given": "Hideo"
+			},
+			{
+				"family": "Iwata",
+				"given": "Yasuhide"
+			},
+			{
+				"family": "Suzuki",
+				"given": "Katsuaki"
+			},
+			{
+				"family": "Miyashita",
+				"given": "Mitsuhiro"
+			},
+			{
+				"family": "Kikuchi",
+				"given": "Mitsuru"
+			},
+			{
+				"family": "Kato",
+				"given": "Motoichiro"
+			},
+			{
+				"family": "Okada",
+				"given": "Yohei"
+			},
+			{
+				"family": "Akamatsu",
+				"given": "Wado"
+			},
+			{
+				"family": "Mori",
+				"given": "Norio"
+			},
+			{
+				"family": "Owada",
+				"given": "Yuji"
+			},
+			{
+				"family": "Itokawa",
+				"given": "Masanari"
+			},
+			{
+				"family": "Okano",
+				"given": "Hideyuki"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/5N5TM3UQ",
+		"type": "article-journal",
+		"abstract": "Epilepsy constitutes a heterogeneous group of disorders that is characterized by recurrent unprovoked seizures due to widely different etiologies. Multidrug resistance remains a major issue in clinical epileptology, where one third of patients with epilepsy continue to have seizures. Role of efflux transporters in multidrug resistant epilepsy has been attributed to drug-resistant epilepsy although, with discrepant observation in genetic studies. These discrepancies could be attributed to variety of factors such as variable definition of the anti-epileptic drug (AED)-resistance, variable epilepsy phenotypes and ethnicities among the studies. In the present study we inquired the role of multidrug transporters ABCB1 and ABCG2 variants in determining AED-resistance and susceptibility to epilepsy in three well-characterized cohorts comprising of mesial temporal lobe epilepsy with hippocampal sclerosis (MTLE-HS) (prototype for AED-resistant epilepsy); juvenile myoclonic epilepsy (JME) (prototype for AED-responsive epilepsy); and healthy non-epileptic controls, in 738 subjects of Malayalam speaking south Indian ancestry. ABCB1 and ABCG2 variants were not found to be associated with drug resistance when AED-resistant and AED-responsive cohorts were compared. However, a significant association was observed between ABCB1 (C3435T) rs1045642 and risk of having epilepsy (MTLE-HS and JME pooled cohort; genotypic p-value = 0.0002; allelic p-value = 0.004). This association was seen persistent with MTLE-HS (genotypic p-value = 0.0008; allelic p-value = 0.004) and also with JME (genotypic p-value = 0.01; allelic p-value = 0.05) cohort individually. In-silico functional prediction indicated that ABCB1 rs1045642 has a deleterious impact on protein coding function and in splicing regulation. We conclude that the ABCB1 and ABCG2 variants do not confer to AED-resistance in the study population. However, ABCB1 rs1045642 increases vulnerability to epilepsy with greater tendency for MTLE-HS in south Indian ancestry from Kerala.",
+		"container-title": "PloS One",
+		"DOI": "10.1371/journal.pone.0089253",
+		"ISSN": "1932-6203",
+		"issue": "2",
+		"journalAbbreviation": "PLoS One",
+		"language": "eng",
+		"note": "PMID: 24586633\nPMCID: PMC3931716",
+		"page": "e89253",
+		"source": "PubMed",
+		"title": "Genetic association analysis of ATP binding cassette protein family reveals a novel association of ABCB1 genetic variants with epilepsy risk, but not with drug-resistance",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Bharathan",
+				"given": "Sumitha Prameela"
+			},
+			{
+				"family": "Vellichiramal",
+				"given": "Neetha Nanoth"
+			},
+			{
+				"family": "Sathyan",
+				"given": "Sanish"
+			},
+			{
+				"family": "Joseph",
+				"given": "Vijai"
+			},
+			{
+				"family": "Radhakrishnan",
+				"given": "Kurupath"
+			},
+			{
+				"family": "Banerjee",
+				"given": "Moinak"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/XRN9JLJ4",
+		"type": "article-journal",
+		"abstract": "BACKGROUND: Histone H3 methylation at lysine 9 (H3K9) is a conserved epigenetic signal, mediating heterochromatin formation by trimethylation, and transcriptional silencing by dimethylation. Defective GLP (Ehmt1) and G9a (Ehmt2) histone lysine methyltransferases, involved in mono and dimethylation of H3K9, confer autistic phenotypes and behavioral abnormalities in animal models. Moreover, EHMT1 loss of function results in Kleefstra syndrome, characterized by severe intellectual disability, developmental delays and psychiatric disorders. We examined the possible role of histone methyltransferases in the etiology of autism spectrum disorders (ASD) and suggest that rare functional variants in these genes that regulate H3K9 methylation may be associated with ASD.\nMETHODS: Since G9a-GLP-Wiz forms a heteromeric methyltransferase complex, all the protein-coding regions and exon/intron boundaries of EHMT1, EHMT2 and WIZ were sequenced in Japanese ASD subjects. The detected variants were prioritized based on novelty and functionality. The expression levels of these genes were tested in blood cells and postmortem brain samples from ASD and control subjects. Expression of EHMT1 and EHMT2 isoforms were determined by digital PCR.\nRESULTS: We identified six nonsynonymous variants: three in EHMT1, two in EHMT2 and one in WIZ. Two variants, the EHMT1 ankyrin repeat domain (Lys968Arg) and EHMT2 SET domain (Thr961Ile) variants were present exclusively in cases, but showed no statistically significant association with ASD. The EHMT2 transcript expression was significantly elevated in the peripheral blood cells of ASD when compared with control samples; but not for EHMT1 and WIZ. Gene expression levels of EHMT1, EHMT2 and WIZ in Brodmann area (BA) 9, BA21, BA40 and the dorsal raphe nucleus (DoRN) regions from postmortem brain samples showed no significant changes between ASD and control subjects. Nor did expression levels of EHMT1 and EHMT2 isoforms in the prefrontal cortex differ significantly between ASD and control groups.\nCONCLUSIONS: We identified two novel rare missense variants in the EHMT1 and EHMT2 genes of ASD patients. We surmise that these variants alone may not be sufficient to exert a significant effect on ASD pathogenesis. The elevated expression of EHMT2 in the peripheral blood cells may support the notion of a restrictive chromatin state in ASD, similar to schizophrenia.",
+		"container-title": "Molecular Autism",
+		"DOI": "10.1186/2040-2392-5-49",
+		"ISSN": "2040-2392",
+		"issue": "1",
+		"journalAbbreviation": "Mol Autism",
+		"language": "eng",
+		"note": "PMID: 25400900\nPMCID: PMC4233047",
+		"page": "49",
+		"source": "PubMed",
+		"title": "Exon resequencing of H3K9 methyltransferase complex genes, EHMT1, EHTM2 and WIZ, in Japanese autism subjects",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Shimamoto",
+				"given": "Chie"
+			},
+			{
+				"family": "Esaki",
+				"given": "Kayoko"
+			},
+			{
+				"family": "Yamada",
+				"given": "Kazuo"
+			},
+			{
+				"family": "Iwata",
+				"given": "Yasuhide"
+			},
+			{
+				"family": "Suzuki",
+				"given": "Katsuaki"
+			},
+			{
+				"family": "Ide",
+				"given": "Masayuki"
+			},
+			{
+				"family": "Ota",
+				"given": "Motonori"
+			},
+			{
+				"family": "Fukuchi",
+				"given": "Satoshi"
+			},
+			{
+				"family": "Tsujii",
+				"given": "Masatsugu"
+			},
+			{
+				"family": "Mori",
+				"given": "Norio"
+			},
+			{
+				"family": "Shinkai",
+				"given": "Yoichi"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/G6AW6H2K",
+		"type": "article-journal",
+		"abstract": "The solute carrier 27A (SLC27A) gene family encodes fatty acid transport proteins (FATPs) and includes 6 members. During fetal and postnatal periods of development, the growing brain requires a reliable supply of fatty acids. Because autism spectrum disorders (ASD) are now recognized as disorders caused by impaired early brain development, it is possible that functional abnormalities of SLC27A genes may contribute to the pathogenesis of ASD. Here, we confirmed the expression of SLC27A3 and SLC27A4 in human neural stem cells derived from human induced pluripotent stem cells, which suggested their involvement in the developmental stage of the central nervous system. Additionally, we resequenced the SLC27A3 and SLC27A4 genes using 267 ASD patient and 1140 control samples and detected 47 (44 novel and 29 nonsynonymous) and 30 (17 novel and 14 nonsynonymous) variants for the SLC27A3 and SLC27A4, respectively, revealing that they are highly polymorphic with multiple rare variants. The SLC27A4 Ser209 allele was more frequently represented in ASD samples. Furthermore, we showed that a SLC27A4 Ser209 mutant resulted in significantly higher fluorescently-labeled fatty acid uptake into bEnd3 cells, a mouse brain capillary-derived endothelial cell line, compared with SLC27A4 Gly209, suggesting that the functional change may contribute to ASD pathophysiology.",
+		"container-title": "Scientific Reports",
+		"DOI": "10.1038/srep16239",
+		"ISSN": "2045-2322",
+		"journalAbbreviation": "Sci Rep",
+		"language": "eng",
+		"note": "PMID: 26548558\nPMCID: PMC4637822",
+		"page": "16239",
+		"source": "PubMed",
+		"title": "Investigation of the fatty acid transporter-encoding genes SLC27A3 and SLC27A4 in autism",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Shimamoto",
+				"given": "Chie"
+			},
+			{
+				"family": "Hisano",
+				"given": "Yasuko"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Matsuzaki",
+				"given": "Hideo"
+			},
+			{
+				"family": "Iwata",
+				"given": "Yasuhide"
+			},
+			{
+				"family": "Takagai",
+				"given": "Shu"
+			},
+			{
+				"family": "Yamada",
+				"given": "Kohei"
+			},
+			{
+				"family": "Ota",
+				"given": "Motonori"
+			},
+			{
+				"family": "Fukuchi",
+				"given": "Satoshi"
+			},
+			{
+				"family": "Okada",
+				"given": "Yohei"
+			},
+			{
+				"family": "Akamatsu",
+				"given": "Wado"
+			},
+			{
+				"family": "Tsujii",
+				"given": "Masatsugu"
+			},
+			{
+				"family": "Kojima",
+				"given": "Nobuhiko"
+			},
+			{
+				"family": "Owada",
+				"given": "Yuji"
+			},
+			{
+				"family": "Okano",
+				"given": "Hideyuki"
+			},
+			{
+				"family": "Mori",
+				"given": "Norio"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					11,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/4QSCINBA",
+		"type": "article-journal",
+		"abstract": "Intracranial aneurysm (IA) accounts for 85% of Subarachnoid Hemorrhage (SAH) and is mainly caused due to the weakening of arterial wall. The structural integrity of the intracranial arteries is mainly influenced by the extracellular matrix (ECM) remodeling. The Proteoglycan Versican plays an important role in extracellular matrix assembly and plays a major role in the pathogenesis of IA. The linkage studies also indicated VCAN as a putative candidate gene for IA in the 5q22-31 region. Using a case-control study design, we tested the hypothesis whether the variants in VCAN gene, nonsynonymous variants in the coding region of Glycosaminoglycan α (GAG-α) and GAG-β and two reported SNPs involved in splicing rs251124 and rs173686 can increase the risk of aSAH among South Indian patients, either independently, or by interacting with other risk factors of the disease. We selected 200 radiologically confirmed aneurysmal cases and 250 ethnically, age and sex matched controls from the Dravidian Malayalam speaking population of South India. The present study reiterated the earlier association of rs251124 with intracranial aneurysm (P = 0.0002) and also found a novel association with rs2287926 (G428D) in exon 7 coding for GAG-α with intracranial aneurysm (P = 0.0015). Interestingly, both these SNPs contributed to higher risk for aneurysm in males. In-silico analysis predicted this SNP to have the highest functional relevance in the gene which might have a potentially altered regulatory role in transcription and splicing. Using meta-analysis with available literature rs251124 was found to be the strongest intracranial aneurysm marker for global ethnicities. This study with a novel functional SNP rs2287926 (G428D) further substantiates the potential role of VCAN in the pathogenesis of IA.",
+		"container-title": "Meta Gene",
+		"DOI": "10.1016/j.mgene.2014.07.001",
+		"ISSN": "2214-5400",
+		"journalAbbreviation": "Meta Gene",
+		"language": "eng",
+		"note": "PMID: 25606449\nPMCID: PMC4287847",
+		"page": "651-660",
+		"source": "PubMed",
+		"title": "Association of Versican (VCAN) gene polymorphisms rs251124 and rs2287926 (G428D), with intracranial aneurysm",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Sathyan",
+				"given": "Sanish"
+			},
+			{
+				"family": "Koshy",
+				"given": "Linda V."
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Easwer",
+				"given": "H. V."
+			},
+			{
+				"family": "Premkumar",
+				"given": "S."
+			},
+			{
+				"family": "Nair",
+				"given": "Suresh"
+			},
+			{
+				"family": "Bhattacharya",
+				"given": "R. N."
+			},
+			{
+				"family": "Alapatt",
+				"given": "Jacob P."
+			},
+			{
+				"family": "Banerjee",
+				"given": "Moinak"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/FHBIWVJ8",
+		"type": "article-journal",
+		"abstract": "Recent reports suggest that carbonyl stress might affect a subset of schizophrenia patients suffering from severe symptoms. Carbonyl stress protection is achieved by the glyoxalase system consisting of two enzymes, glyoxalase 1 and 2, which in humans are encoded by the genes GLO1 and HAGH, respectively. Glyoxalase 1 and 2 catalyze the detoxification of reactive alpha-oxoaldehydes such as glyoxal and methylglyoxal, which are particularly damaging components of carbonyl stress. Here, we investigated the role of the glyoxalase system in schizophrenia by performing association analyses of common genetic variants (n=12) in GLO1 and HAGH in a Japanese sample consisting of 2012 schizophrenia patients and 2170 healthy controls. We detected a nominally significant association with schizophrenia (p=0.020) of rs11859266, a SNP in the intronic region of HAGH. However, rs11859266 did not survive multiple testing (empirical p=0.091). The variants in HAGH, rs11859266 and rs3743852, showed significant associations with schizophrenia in males at allelic and genotype levels, which remained persistent after multiple testing with the exception of rs3743852 for the genotype model. We further measured the mRNA expression of both genes in postmortem brain, but did not detect any changes in transcript expression levels between case and control samples or in sex-specific comparisons. Therefore, our findings suggest that an explanation of elevated carbonyl stress in a substantial part (reported as ~20%) of patients with schizophrenia will require the examination of a much larger cohort to detect risk alleles with weak effect size and/or other risk factors.",
+		"container-title": "Progress in Neuro-Psychopharmacology & Biological Psychiatry",
+		"DOI": "10.1016/j.pnpbp.2015.01.014",
+		"ISSN": "1878-4216",
+		"journalAbbreviation": "Prog Neuropsychopharmacol Biol Psychiatry",
+		"language": "eng",
+		"note": "PMID: 25645869",
+		"page": "105-110",
+		"source": "PubMed",
+		"title": "Genetic analysis of the glyoxalase system in schizophrenia",
+		"volume": "59",
+		"author": [
+			{
+				"family": "Bangel",
+				"given": "Fabian N."
+			},
+			{
+				"family": "Yamada",
+				"given": "Kazuo"
+			},
+			{
+				"family": "Arai",
+				"given": "Makoto"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Iwata",
+				"given": "Yasuhide"
+			},
+			{
+				"family": "Suzuki",
+				"given": "Katsuaki"
+			},
+			{
+				"family": "Kikuchi",
+				"given": "Mitsuru"
+			},
+			{
+				"family": "Hashimoto",
+				"given": "Tasuku"
+			},
+			{
+				"family": "Kanahara",
+				"given": "Nobuhisa"
+			},
+			{
+				"family": "Mori",
+				"given": "Norio"
+			},
+			{
+				"family": "Itokawa",
+				"given": "Masanari"
+			},
+			{
+				"family": "Stork",
+				"given": "Oliver"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/PB9HGVI2",
+		"type": "article-journal",
+		"abstract": "Involvement of the gamma-aminobutyric acid (GABA)-ergic system in schizophrenia pathogenesis through disrupted neurodevelopment has been highlighted in numerous studies. However, the function of common genetic variants of this system in determining schizophrenia risk is unknown. We therefore tested the association of 375 tagged SNPs in genes derived from the GABAergic system, such as GABAA receptor subunit genes, and GABA related genes (glutamate decarboxylase genes, GABAergic-marker gene, genes involved in GABA receptor trafficking and scaffolding) in Japanese schizophrenia case-control samples (n=2926; 1415 cases and 1511 controls). We observed nominal association of SNPs in nine GABAA receptor subunit genes and the GPHN gene with schizophrenia, although none survived correction for study-wide multiple testing. Two SNPs located in the GABRA1 gene, rs4263535 (Pallele=0.002; uncorrected) and rs1157122 (Pallele=0.006; uncorrected) showed top hits, followed by rs723432 (Pallele=0.007; uncorrected) in the GPHN gene. All three were significantly associated with schizophrenia and survived gene-wide multiple testing. Haplotypes containing associated variants in GABRA1 but not GPHN were significantly associated with schizophrenia. To conclude, we provided substantiating genetic evidence for the involvement of the GABAergic system in schizophrenia susceptibility. These results warrant further investigations to replicate the association of GABRA1 and GPHN with schizophrenia and to discern the precise mechanisms of disease pathophysiology.",
+		"container-title": "Schizophrenia Research",
+		"DOI": "10.1016/j.schres.2017.01.003",
+		"ISSN": "1573-2509",
+		"journalAbbreviation": "Schizophr Res",
+		"language": "eng",
+		"note": "PMID: 28073605",
+		"page": "33-40",
+		"source": "PubMed",
+		"title": "Comprehensive association analysis of 27 genes from the GABAergic system in Japanese individuals affected with schizophrenia",
+		"volume": "185",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Yamada",
+				"given": "Kazuo"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Hashimoto",
+				"given": "Takanori"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Shimamoto",
+				"given": "Chie"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Takagai",
+				"given": "Shu"
+			},
+			{
+				"family": "Wakuda",
+				"given": "Tomoyasu"
+			},
+			{
+				"family": "Kameno",
+				"given": "Yosuke"
+			},
+			{
+				"family": "Kurita",
+				"given": "Daisuke"
+			},
+			{
+				"family": "Yamada",
+				"given": "Kohei"
+			},
+			{
+				"family": "Kikuchi",
+				"given": "Mitsuru"
+			},
+			{
+				"family": "Hashimoto",
+				"given": "Tasuku"
+			},
+			{
+				"family": "Kanahara",
+				"given": "Nobuhisa"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/TZ67ZU9P",
+		"type": "article-journal",
+		"abstract": "Schizophrenia is one of the leading causes of disability among mental disorders, contributing to a substantial socioeconomic burden. Our understanding of the mechanisms of the pathogenesis of the disease has largely been limited by its inherent complexity imparted by the polygenicity and interactions with environmental factors. Since pathobiological events are initiated in the schizophrenic brain long before the onset of the psychotic manifestations, characterizing these processes is limited, mainly due to a lack of access to neuronal tissues. Induced pluripotent stem cell (iPSC) technologies have provided an unprecedented opportunity to establish pluripotent stem cells from patients with schizophrenia and differentiate them into neuronal lineage, enabling an in vitro recapitulation of the pathogenesis of the disease. Despite the inherent challenges, patient-derived iPSC studies of schizophrenia have been instrumental in unraveling the cellular and molecular phenotypes that might be involved in the biological causality. Here we review the literature and focus on studies that have utilized patient-derived iPSCs to model the pathogenesis of schizophrenia. We also discuss the challenges in modeling cellular phenotypes of schizophrenia.",
+		"container-title": "Neurobiology of Disease",
+		"DOI": "10.1016/j.nbd.2018.04.021",
+		"ISSN": "1095-953X",
+		"journalAbbreviation": "Neurobiol Dis",
+		"language": "eng",
+		"note": "PMID: 29729395",
+		"page": "104162",
+		"source": "PubMed",
+		"title": "Contribution of induced pluripotent stem cell technologies to the understanding of cellular phenotypes in schizophrenia",
+		"volume": "131",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/LPT87HW7",
+		"type": "article-journal",
+		"abstract": "METTL20 is a seven-β-strand methyltransferase that is localised to the mitochondria and tri-methylates the electron transfer flavoprotein (ETF) β subunit (ETFB) at lysines 200 and 203. It has been shown that METTL20 decreases the ability of ETF to extract electrons from medium-chain acyl-coenzyme A (CoA) dehydrogenase (MCAD) and glutaryl-CoA dehydrogenase in vitro. METTL20-mediated methylation of ETFB influences the oxygen consumption rate in permeabilised mitochondria, suggesting that METTL20-mediated ETFB methylation may also play a regulatory role in mitochondrial metabolism. In this study, we generated Mettl20 knockout (KO) mice to uncover the in vivo functions of METTL20. The KO mice were viable, and a loss of ETFB methylation was confirmed. In vitro enzymatic assays revealed that mitochondrial ETF activity was higher in the KO mice than in wild-type mice, suggesting that the KO mice had higher β-oxidation capacity. Calorimetric analysis showed that the KO mice fed a ketogenic diet had higher oxygen consumption and heat production. A subsequent cold tolerance test conducted after 24 h of fasting indicated that the KO mice had a better ability to maintain their body temperature in cold environments. Thus, METTL20 regulates ETF activity and heat production through lysine methylation when β-oxidation is highly activated.",
+		"container-title": "Scientific Reports",
+		"DOI": "10.1038/s41598-018-19615-4",
+		"ISSN": "2045-2322",
+		"issue": "1",
+		"journalAbbreviation": "Sci Rep",
+		"language": "eng",
+		"note": "PMID: 29352221\nPMCID: PMC5775328",
+		"page": "1179",
+		"source": "PubMed",
+		"title": "Role of METTL20 in regulating β-oxidation and heat production in mice under fasting or ketogenic conditions",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Shimazu",
+				"given": "Tadahiro"
+			},
+			{
+				"family": "Furuse",
+				"given": "Tamio"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Yamada",
+				"given": "Ikuko"
+			},
+			{
+				"family": "Okuno",
+				"given": "Shuzo"
+			},
+			{
+				"family": "Iwanari",
+				"given": "Hiroko"
+			},
+			{
+				"family": "Suzuki",
+				"given": "Takehiro"
+			},
+			{
+				"family": "Hamakubo",
+				"given": "Takao"
+			},
+			{
+				"family": "Dohmae",
+				"given": "Naoshi"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			},
+			{
+				"family": "Wakana",
+				"given": "Shigeharu"
+			},
+			{
+				"family": "Shinkai",
+				"given": "Yoichi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/US99ZEU7",
+		"type": "article-journal",
+		"abstract": "The present study describes the hair growth-promoting effects of sodium thiosulfate (STS), a widely used compound, in mice. STS accelerated hair growth in the \"telogen model\", suggesting that it stimulates telogen hair follicles to reenter the anagen phase of hair growth. In the same model, STS potentiated hair growth in an additive manner with minoxidil (MXD), a drug used for the treatment of androgenic alopecia. Furthermore, in the \"anagen model\", STS promoted hair growth, probably by promoting hair follicle proliferation. Since STS elevated the skin surface temperature, its hair growth-promoting activity may be partly due to vasorelaxation, similar to MXD. In addition, STS is known to generate a gaseous mediator, H2S, which has vasorelaxation and anti-inflammatory/anti-oxidative stress activities. Therefore, STS and/or provisionally its metabolite, H2S, may aid the hair growth process. Collectively, these results suggest that salts of thiosulfate may represent a novel and beneficial remedy for hair loss.",
+		"container-title": "Bioscience, Biotechnology, and Biochemistry",
+		"DOI": "10.1080/09168451.2018.1518705",
+		"ISSN": "1347-6947",
+		"issue": "1",
+		"journalAbbreviation": "Biosci Biotechnol Biochem",
+		"language": "eng",
+		"note": "PMID: 30200826",
+		"page": "114-122",
+		"source": "PubMed",
+		"title": "Thiosulfate promotes hair growth in mouse model",
+		"volume": "83",
+		"author": [
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Hisano",
+				"given": "Yasuko"
+			},
+			{
+				"family": "Nozaki",
+				"given": "Yayoi"
+			},
+			{
+				"family": "Ohba",
+				"given": "Hisako"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Shimamoto",
+				"given": "Chie"
+			},
+			{
+				"family": "Tabata",
+				"given": "Chinatsu"
+			},
+			{
+				"family": "Wada",
+				"given": "Yuina"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/DSBGL5MK",
+		"type": "article-journal",
+		"abstract": "Dampened prepulse inhibition (PPI) is a consistent observation in psychiatric disorders, including schizophrenia and qualifies as a robust endophenotype for genetic evaluation. Using high PPI C57BL/6NCrlCrlj (B6Nj) and low PPI C3H/HeNCrlCrlj (C3HNj) inbred mouse strains, we have previously reported a quantitative trait locus (QTL) for PPI at chromosome 10 and identified Fabp7 as a candidate gene for regulating PPI and schizophrenia pathogenesis using Fabp7-deficient mice (B6.Cg-Fabp7 KO). Here, considering a possibility of carryover of residual genetic materials from embryonic stem (ES) cells used in generating knockout (KO) mice, we set out to re-address the genotype-phenotype correlation in a uniform genetic background. By generating a new Fabp7 KO mouse model in C57BL/6NCrl (B6N) background using the CRISPR-Cas9 nickase system, we evaluated the impact of Fabp7 ablation on schizophrenia-related behavioral phenotypes. To our surprise, we found no significant differences in PPI or any of the schizophrenia-related behavioral scores, as observed in our previous B6.Cg-Fabp7 KO mice. We identified several C3H/He mouse strain-specific alleles within the interval of chromosome 10-QTL, which are shared with 129/Sv mouse strains. These alleles, derived from 129/Sv ES cells, were retained in the B6.Cg-Fabp7 KO, despite multiple backcrossing and are thought to be responsible for the dampened PPI. In summary, our study demonstrates a precise genotype-phenotype relation for Fabp7 loss-of-function in a uniform B6N background, and raises the necessity of further analysis of the effects of genomic variants flanking the Fabp7 interval on phenotypes.",
+		"container-title": "Schizophrenia Research",
+		"DOI": "10.1016/j.schres.2019.02.002",
+		"ISSN": "1573-2509",
+		"journalAbbreviation": "Schizophr Res",
+		"language": "eng",
+		"note": "PMID: 30765249",
+		"page": "52-59",
+		"source": "PubMed",
+		"title": "Evaluation of the role of fatty acid-binding protein 7 in controlling schizophrenia-relevant phenotypes using newly established knockout mice",
+		"volume": "217",
+		"author": [
+			{
+				"family": "Shimamoto-Mitsuyama",
+				"given": "Chie"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Ohba",
+				"given": "Hisako"
+			},
+			{
+				"family": "Watanabe",
+				"given": "Akiko"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Hisano",
+				"given": "Yasuko"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Owada",
+				"given": "Yuji"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/2FWHEHD3",
+		"type": "article-journal",
+		"abstract": "BACKGROUND: Betaine is known to act against various biological stresses and its levels were reported to be decreased in schizophrenia patients. We aimed to test the role of betaine in schizophrenia pathophysiology, and to evaluate its potential as a novel psychotherapeutic.\nMETHODS: Using Chdh (a gene for betaine synthesis)-deficient mice and betaine-supplemented inbred mice, we assessed the role of betaine in psychiatric pathophysiology, and its potential as a novel psychotherapeutic, by leveraging metabolomics, behavioral-, transcriptomics and DNA methylation analyses.\nFINDINGS: The Chdh-deficient mice revealed remnants of psychiatric behaviors along with schizophrenia-related molecular perturbations in the brain. Betaine supplementation elicited genetic background-dependent improvement in cognitive performance, and suppressed methamphetamine (MAP)-induced behavioral sensitization. Furthermore, betaine rectified the altered antioxidative and proinflammatory responses induced by MAP and in vitro phencyclidine (PCP) treatments. Betaine also showed a prophylactic effect on behavioral abnormality induced by PCP. Notably, betaine levels were decreased in the postmortem brains from schizophrenia, and a coexisting elevated carbonyl stress, a form of oxidative stress, demarcated a subset of schizophrenia with \"betaine deficit-oxidative stress pathology\". We revealed the decrease of betaine levels in glyoxylase 1 (GLO1)-deficient hiPSCs, which shows elevated carbonyl stress, and the efficacy of betaine in alleviating it, thus supporting a causal link between betaine and oxidative stress conditions. Furthermore, a CHDH variant, rs35518479, was identified as a cis-expression quantitative trait locus (QTL) for CHDH expression in postmortem brains from schizophrenia, allowing genotype-based stratification of schizophrenia patients for betaine efficacy.\nINTERPRETATION: The present study revealed the role of betaine in psychiatric pathophysiology and underscores the potential benefit of betaine in a subset of schizophrenia. FUND: This study was supported by the Strategic Research Program for Brain Sciences from AMED (Japan Agency for Medical Research and Development) under Grant Numbers JP18dm0107083 and JP19dm0107083 (TY), JP18dm0107129 (MM), JP18dm0107086 (YK), JP18dm0107107 (HY), JP18dm0107104 (AK) and JP19dm0107119 (KH), by the Grant-in-Aid for Scientific Research on Innovative Areas from the MEXT under Grant Numbers JP18H05435 (TY), JP18H05433 (AH.-T), JP18H05428 (AH.-T and TY), and JP16H06277 (HY), and by JSPS KAKENHI under Grant Number JP17H01574 (TY). In addition, this study was supported by the Collaborative Research Project of Brain Research Institute, Niigata University under Grant Numbers 2018-2809 (YK) and RIKEN Epigenetics Presidential Fund (100214-201801063606-340120) (TY).",
+		"container-title": "EBioMedicine",
+		"DOI": "10.1016/j.ebiom.2019.05.062",
+		"ISSN": "2352-3964",
+		"journalAbbreviation": "EBioMedicine",
+		"language": "eng",
+		"note": "PMID: 31255657\nPMCID: PMC6642071",
+		"page": "432-446",
+		"source": "PubMed",
+		"title": "Investigation of betaine as a novel psychotherapeutic for schizophrenia",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Ohba",
+				"given": "Hisako"
+			},
+			{
+				"family": "Watanabe",
+				"given": "Akiko"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Fujita",
+				"given": "Yuko"
+			},
+			{
+				"family": "Tan",
+				"given": "Yunfei"
+			},
+			{
+				"family": "Hisano",
+				"given": "Yasuko"
+			},
+			{
+				"family": "Shimamoto-Mitsuyama",
+				"given": "Chie"
+			},
+			{
+				"family": "Nozaki",
+				"given": "Yayoi"
+			},
+			{
+				"family": "Esaki",
+				"given": "Kayoko"
+			},
+			{
+				"family": "Nagaoka",
+				"given": "Atsuko"
+			},
+			{
+				"family": "Matsumoto",
+				"given": "Junya"
+			},
+			{
+				"family": "Hino",
+				"given": "Mizuki"
+			},
+			{
+				"family": "Mataga",
+				"given": "Nobuko"
+			},
+			{
+				"family": "Hayashi-Takagi",
+				"given": "Akiko"
+			},
+			{
+				"family": "Hashimoto",
+				"given": "Kenji"
+			},
+			{
+				"family": "Kunii",
+				"given": "Yasuto"
+			},
+			{
+				"family": "Kakita",
+				"given": "Akiyoshi"
+			},
+			{
+				"family": "Yabe",
+				"given": "Hirooki"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/ARSHGBD3",
+		"type": "article-journal",
+		"abstract": "Enhanced carbonyl stress underlies a subset of schizophrenia, but its causal effects remain elusive. Here, we elucidated the molecular mechanism underlying the effects of carbonyl stress in iPS cells in which the gene encoding zinc metalloenzyme glyoxalase I (GLO1), a crucial enzyme for the clearance of carbonyl stress, was disrupted. The iPS cells exhibited significant cellular and developmental deficits, and hyper-carbonylation of collapsing response mediator protein 2 (CRMP2). Structural and biochemical analyses revealed an array of multiple carbonylation sites in the functional motifs of CRMP2, particularly D-hook (for dimerization) and T-site (for tetramerization), which are critical for the activity of the CRMP2 tetramer. Interestingly, carbonylated CRMP2 was stacked in the multimer conformation by irreversible cross-linking, resulting in loss of its unique function to bundle microtubules. Thus, the present study revealed that the enhanced carbonyl stress stemmed from the genetic aberrations results in neurodevelopmental deficits through the formation of irreversible dysfunctional multimer of carbonylated CRMP2.",
+		"container-title": "Life Science Alliance",
+		"DOI": "10.26508/lsa.201900478",
+		"ISSN": "2575-1077",
+		"issue": "5",
+		"journalAbbreviation": "Life Sci Alliance",
+		"language": "eng",
+		"note": "PMID: 31591136\nPMCID: PMC6781483",
+		"page": "e201900478",
+		"source": "PubMed",
+		"title": "Enhanced carbonyl stress induces irreversible multimerization of CRMP2 in schizophrenia pathogenesis",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Jiang",
+				"given": "Xuguang"
+			},
+			{
+				"family": "Ogawa",
+				"given": "Tadayuki"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Yoshihara",
+				"given": "Shogo"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			},
+			{
+				"family": "Hirokawa",
+				"given": "Nobutaka"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/VVLI78LW",
+		"type": "article-journal",
+		"abstract": "Mice with the C3H background show greater behavioral propensity for schizophrenia, including lower prepulse inhibition (PPI), than C57BL/6 (B6) mice. To characterize as-yet-unknown pathophysiologies of schizophrenia, we undertook proteomics analysis of the brain in these strains, and detected elevated levels of Mpst, a hydrogen sulfide (H2 S)/polysulfide-producing enzyme, and greater sulfide deposition in C3H than B6 mice. Mpst-deficient mice exhibited improved PPI with reduced storage sulfide levels, while Mpst-transgenic (Tg) mice showed deteriorated PPI, suggesting that \"sulfide stress\" may be linked to PPI impairment. Analysis of human samples demonstrated that the H2 S/polysulfides production system is upregulated in schizophrenia. Mechanistically, the Mpst-Tg brain revealed dampened energy metabolism, while maternal immune activation model mice showed upregulation of genes for H2 S/polysulfides production along with typical antioxidative genes, partly via epigenetic modifications. These results suggest that inflammatory/oxidative insults in early brain development result in upregulated H2 S/polysulfides production as an antioxidative response, which in turn cause deficits in bioenergetic processes. Collectively, this study presents a novel aspect of the neurodevelopmental theory for schizophrenia, unraveling a role of excess H2 S/polysulfides production.",
+		"container-title": "EMBO molecular medicine",
+		"DOI": "10.15252/emmm.201910695",
+		"ISSN": "1757-4684",
+		"issue": "12",
+		"journalAbbreviation": "EMBO Mol Med",
+		"language": "eng",
+		"note": "PMID: 31657521\nPMCID: PMC6895609",
+		"page": "e10695",
+		"source": "PubMed",
+		"title": "Excess hydrogen sulfide and polysulfides production underlies a schizophrenia pathophysiology",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Ide",
+				"given": "Masayuki"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Shimamoto-Mitsuyama",
+				"given": "Chie"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Ohba",
+				"given": "Hisako"
+			},
+			{
+				"family": "Watanabe",
+				"given": "Akiko"
+			},
+			{
+				"family": "Ishii",
+				"given": "Takashi"
+			},
+			{
+				"family": "Shibuya",
+				"given": "Norihiro"
+			},
+			{
+				"family": "Kimura",
+				"given": "Yuka"
+			},
+			{
+				"family": "Hisano",
+				"given": "Yasuko"
+			},
+			{
+				"family": "Murata",
+				"given": "Yui"
+			},
+			{
+				"family": "Hara",
+				"given": "Tomonori"
+			},
+			{
+				"family": "Morikawa",
+				"given": "Momo"
+			},
+			{
+				"family": "Hashimoto",
+				"given": "Kenji"
+			},
+			{
+				"family": "Nozaki",
+				"given": "Yayoi"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Wada",
+				"given": "Yuina"
+			},
+			{
+				"family": "Tanaka",
+				"given": "Yosuke"
+			},
+			{
+				"family": "Kato",
+				"given": "Tadafumi"
+			},
+			{
+				"family": "Nishi",
+				"given": "Akinori"
+			},
+			{
+				"family": "Fujisawa",
+				"given": "Shigeyoshi"
+			},
+			{
+				"family": "Okano",
+				"given": "Hideyuki"
+			},
+			{
+				"family": "Itokawa",
+				"given": "Masanari"
+			},
+			{
+				"family": "Hirokawa",
+				"given": "Nobutaka"
+			},
+			{
+				"family": "Kunii",
+				"given": "Yasuto"
+			},
+			{
+				"family": "Kakita",
+				"given": "Akiyoshi"
+			},
+			{
+				"family": "Yabe",
+				"given": "Hirooki"
+			},
+			{
+				"family": "Iwamoto",
+				"given": "Kazuya"
+			},
+			{
+				"family": "Meno",
+				"given": "Kohji"
+			},
+			{
+				"family": "Katagiri",
+				"given": "Takuya"
+			},
+			{
+				"family": "Dean",
+				"given": "Brian"
+			},
+			{
+				"family": "Uchida",
+				"given": "Kazuhiko"
+			},
+			{
+				"family": "Kimura",
+				"given": "Hideo"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/V4LLVJJY",
+		"type": "article-journal",
+		"abstract": "Autism spectrum disorder is a neurodevelopmental disorder characterized by difficulties in social communication and interaction, as well as repetitive and characteristic patterns of behaviour. Although the pathogenesis of autism spectrum disorder is unknown, being overweight or obesity during infancy and low weight at birth are known as risks, suggesting a metabolic aspect. In this study, we investigated adipose tissue development as a pathophysiological factor of autism spectrum disorder by examining the serum levels of adipokines and other metabolic markers in autism spectrum disorder children (n = 123) and typically developing children (n = 92) at 4-12 years of age. Among multiple measures exhibiting age-dependent trajectories, the leptin levels displayed different trajectory patterns between autism spectrum disorder and typically developing children, supporting an adipose tissue-dependent mechanism of autism spectrum disorder. Of particular interest, the levels of fatty acid binding protein 4 (FABP4) were significantly lower in autism spectrum disorder children than in typically developing subjects, at preschool age (4-6 years old: n = 21 for autism spectrum disorder and n = 26 for typically developing). The receiver operating characteristic curve analysis discriminated autism spectrum disorder children from typically developing children with a sensitivity of 94.4% and a specificity of 75.0%. We re-sequenced the exons of the FABP4 gene in a Japanese cohort comprising 659 autism spectrum disorder and 1000 control samples, and identified two rare functional variants in the autism spectrum disorder group. The Trp98Stop, one of the two variants, was transmitted to the proband from his mother with a history of depression. The disruption of the Fabp4 gene in mice evoked autism spectrum disorder-like behavioural phenotypes and increased spine density on apical dendrites of pyramidal neurons, which has been observed in the postmortem brains of autism spectrum disorder subjects. The Fabp4 knockout mice had an altered fatty acid composition in the cortex. Collectively, these results suggest that an 'adipo-brain axis' may underlie the pathophysiology of autism spectrum disorder, with FABP4 as a potential molecule for use as a biomarker.",
+		"container-title": "Brain Communications",
+		"DOI": "10.1093/braincomms/fcaa145",
+		"ISSN": "2632-1297",
+		"issue": "2",
+		"journalAbbreviation": "Brain Commun",
+		"language": "eng",
+		"note": "PMID: 33225276\nPMCID: PMC7667725",
+		"page": "fcaa145",
+		"source": "PubMed",
+		"title": "A potential role of fatty acid binding protein 4 in the pathophysiology of autism spectrum disorder",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Shimamoto-Mitsuyama",
+				"given": "Chie"
+			},
+			{
+				"family": "Hamazaki",
+				"given": "Kei"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Wada",
+				"given": "Yuina"
+			},
+			{
+				"family": "Esaki",
+				"given": "Kayoko"
+			},
+			{
+				"family": "Takagai",
+				"given": "Shu"
+			},
+			{
+				"family": "Tsuchiya",
+				"given": "Kenji J."
+			},
+			{
+				"family": "Nakamura",
+				"given": "Kazuhiko"
+			},
+			{
+				"family": "Iwata",
+				"given": "Yasuhide"
+			},
+			{
+				"family": "Nara",
+				"given": "Takahiro"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Nozaki",
+				"given": "Yayoi"
+			},
+			{
+				"family": "Ohba",
+				"given": "Hisako"
+			},
+			{
+				"family": "Watanabe",
+				"given": "Akiko"
+			},
+			{
+				"family": "Hisano",
+				"given": "Yasuko"
+			},
+			{
+				"family": "Matsuoka",
+				"given": "Shigeru"
+			},
+			{
+				"family": "Tsujii",
+				"given": "Masatsugu"
+			},
+			{
+				"family": "Mori",
+				"given": "Norio"
+			},
+			{
+				"family": "Matsuzaki",
+				"given": "Hideo"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/XWIVU37D",
+		"type": "article-journal",
+		"abstract": "The disturbed integrity of myelin and white matter, along with dysregulation of the lipid metabolism, may be involved in schizophrenia pathophysiology. Considering the crucial role of sphingolipids in neurodevelopment, particularly in oligodendrocyte differentiation and myelination, we examined the role of sphingolipid dynamics in the pathophysiology of schizophrenia. We performed targeted mass spectrometry-based analysis of sphingolipids from the cortical area and corpus callosum of postmortem brain samples from patients with schizophrenia and controls. We observed lower sphingosine-1-phosphate (S1P) levels, specifically in the corpus callosum of patients with schizophrenia, but not in major depressive disorder or bipolar disorder, when compared with the controls. Patient data and animal studies showed that antipsychotic intake did not contribute to the lowered S1P levels. We also found that lowered S1P levels in the corpus callosum of patients with schizophrenia may stem from the upregulation of genes for S1P-degrading enzymes; higher expression of genes for S1P receptors suggested a potential compensatory mechanism for the lowered S1P levels. A higher ratio of the sum of sphingosine and ceramide to S1P, which can induce apoptosis and cell-cycle arrest, was also observed in the samples of patients with schizophrenia than in controls. These results suggest that an altered S1P metabolism may underlie the deficits in oligodendrocyte differentiation and myelin formation, leading to the structural and molecular abnormalities of white matter reported in schizophrenia. Our findings may pave the way toward a novel therapeutic strategy.",
+		"container-title": "Schizophrenia Bulletin",
+		"DOI": "10.1093/schbul/sbaa052",
+		"ISSN": "1745-1701",
+		"journalAbbreviation": "Schizophr Bull",
+		"language": "eng",
+		"note": "PMID: 32346731\nPMCID: PMC7505171",
+		"page": "sbaa052",
+		"source": "PubMed",
+		"title": "Evidence for Altered Metabolism of Sphingosine-1-Phosphate in the Corpus Callosum of Patients with Schizophrenia",
+		"author": [
+			{
+				"family": "Esaki",
+				"given": "Kayoko"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Shimamoto-Mitsuyama",
+				"given": "Chie"
+			},
+			{
+				"family": "Hirabayashi",
+				"given": "Yoshio"
+			},
+			{
+				"family": "Dean",
+				"given": "Brian"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					4,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/RUVZ33Y3",
+		"type": "article-journal",
+		"abstract": "The Ihara epileptic rat (IER) is a mutant model with limbic-like seizures whose pathology and causative gene remain elusive. In this report, via linkage analysis, we identified Down syndrome cell adhesion molecule-like 1(Dscaml1) as the responsible gene for IER. A single base mutation in Dscaml1 causes abnormal splicing, leading to lack of DSCAML1. IERs have enhanced seizure susceptibility and accelerated kindling establishment. Furthermore, GABAergic neurons are severely reduced in the entorhinal cortex (ECx) of these animals. Voltage-sensitive dye imaging that directly presents the excitation status of brain slices revealed abnormally persistent excitability in IER ECx. This suggests that reduced GABAergic neurons may cause weak sustained entorhinal cortex activations, leading to natural kindling via the perforant path that could cause dentate gyrus hypertrophy and epileptogenesis. Furthermore, we identified a single nucleotide substitution in a human epilepsy that would result in one amino acid change in DSCAML1 (A2105T mutation). The mutant DSCAML1A2105T protein is not presented on the cell surface, losing its homophilic cell adhesion ability. We generated knock-in mice (Dscaml1A2105T) carrying the corresponding mutation and observed reduced GABAergic neurons in the ECx as well as spike-and-wave electrocorticogram. We conclude that DSCAML1 is required for GABAergic neuron placement in the ECx and suppression of seizure susceptibility in rodents. Our findings suggest that mutations in DSCAML1 may affect seizure susceptibility in humans.",
+		"container-title": "Acta Neuropathologica Communications",
+		"DOI": "10.1186/s40478-020-01082-6",
+		"ISSN": "2051-5960",
+		"issue": "1",
+		"journalAbbreviation": "Acta Neuropathol Commun",
+		"language": "eng",
+		"note": "PMID: 33256836\nPMCID: PMC7706048",
+		"page": "206",
+		"source": "PubMed",
+		"title": "Down syndrome cell adhesion molecule like-1 (DSCAML1) links the GABA system and seizure susceptibility",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Hayase",
+				"given": "Yoneko"
+			},
+			{
+				"family": "Amano",
+				"given": "Shigeru"
+			},
+			{
+				"family": "Hashizume",
+				"given": "Koichi"
+			},
+			{
+				"family": "Tominaga",
+				"given": "Takashi"
+			},
+			{
+				"family": "Miyamoto",
+				"given": "Hiroyuki"
+			},
+			{
+				"family": "Kanno",
+				"given": "Yukie"
+			},
+			{
+				"family": "Ueno-Inoue",
+				"given": "Yukiko"
+			},
+			{
+				"family": "Inoue",
+				"given": "Takayoshi"
+			},
+			{
+				"family": "Yamada",
+				"given": "Mayumi"
+			},
+			{
+				"family": "Ogata",
+				"given": "Shigehiro"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Hayashi",
+				"given": "Ken"
+			},
+			{
+				"family": "Miura",
+				"given": "Yoshiki"
+			},
+			{
+				"family": "Tokudome",
+				"given": "Kentaro"
+			},
+			{
+				"family": "Ohno",
+				"given": "Yukihiro"
+			},
+			{
+				"family": "Nishijo",
+				"given": "Takuma"
+			},
+			{
+				"family": "Momiyama",
+				"given": "Toshihiko"
+			},
+			{
+				"family": "Yanagawa",
+				"given": "Yuchio"
+			},
+			{
+				"family": "Takizawa",
+				"given": "Akiko"
+			},
+			{
+				"family": "Mashimo",
+				"given": "Tomoji"
+			},
+			{
+				"family": "Serikawa",
+				"given": "Tadao"
+			},
+			{
+				"family": "Sekine",
+				"given": "Akihiro"
+			},
+			{
+				"family": "Nakagawa",
+				"given": "Eiji"
+			},
+			{
+				"family": "Takeshita",
+				"given": "Eri"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			},
+			{
+				"family": "Waga",
+				"given": "Chikako"
+			},
+			{
+				"family": "Inoue",
+				"given": "Ken"
+			},
+			{
+				"family": "Goto",
+				"given": "Yu-Ichi"
+			},
+			{
+				"family": "Nabeshima",
+				"given": "Yoichi"
+			},
+			{
+				"family": "Ihara",
+				"given": "Nobuo"
+			},
+			{
+				"family": "Yamakawa",
+				"given": "Kazuhiro"
+			},
+			{
+				"family": "Taya",
+				"given": "Shinichiro"
+			},
+			{
+				"family": "Hoshino",
+				"given": "Mikio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/9VXCHCLS",
+		"type": "article-journal",
+		"abstract": "Structural changes in the corpus callosum have been reported in schizophrenia; however, the underlying molecular mechanism remains unclear. As the corpus callosum is high in lipid content, we analyzed the lipid contents of the corpora callosa from 15 patients with schizophrenia and 15 age- and sex-matched controls using liquid chromatography coupled to tandem mass spectrometry and identified lipid combinations associated with schizophrenia. Real-time quantitative polymerase chain reaction analyses using extended samples (schizophrenia, n = 95; control, n = 91) showed low expression levels of lipid metabolism-related genes and their potential upstream transcription factors in schizophrenia. Subsequent pathway analysis identified a gene regulatory network where nuclear factor of activated T cells 2 (NFATC2) is placed most upstream. We also observed low gene expression levels of microglial markers, inflammatory cytokines, and colony-stimulating factor 1 receptor (CSF1R), which is known to regulate the density of microglia, in the corpus callosum in schizophrenia. The interactions between CSF1R and several genes in the presently identified gene network originating from NFATC2 have been reported. Collectively, this study provides evidence regarding lipid abnormalities in the corpora callosa of patients with schizophrenia and proposes the potential role of impaired \"NFATC2-relevant gene network-microglial axis\" as its underlying mechanism.",
+		"container-title": "Cerebral Cortex (New York, N.Y.: 1991)",
+		"DOI": "10.1093/cercor/bhaa236",
+		"ISSN": "1460-2199",
+		"issue": "1",
+		"journalAbbreviation": "Cereb Cortex",
+		"language": "eng",
+		"note": "PMID: 32924060\nPMCID: PMC7727339",
+		"page": "448-462",
+		"source": "PubMed",
+		"title": "Lipid Pathology of the Corpus Callosum in Schizophrenia and the Potential Role of Abnormal Gene Regulatory Networks with Reduced Microglial Marker Expression",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Shimamoto-Mitsuyama",
+				"given": "Chie"
+			},
+			{
+				"family": "Nakaya",
+				"given": "Akihiro"
+			},
+			{
+				"family": "Esaki",
+				"given": "Kayoko"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Dean",
+				"given": "Brian"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/K4WB7YRT",
+		"type": "article-journal",
+		"abstract": "BACKGROUND: The pathophysiology of schizophrenia, a major psychiatric disorder, remains elusive. In this study, the role of peroxisome proliferator-activated receptor (PPAR)/retinoid X receptor (RXR) families, belonging to the ligand-activated nuclear receptor superfamily, in schizophrenia, was analyzed.\nMETHODS: The PPAR/RXR family genes were screened by exploiting molecular inversion probe (MIP)-based targeted next-generation sequencing (NGS) using the samples of 1,200 Japanese patients with schizophrenia. The results were compared with the whole-genome sequencing databases of the Japanese cohort (ToMMo) and the gnomAD. To reveal the relationship between PPAR/RXR dysfunction and schizophrenia, Ppara KO mice and fenofibrate (a clinically used PPARα agonist)-administered mice were assessed by performing behavioral, histological, and RNA-seq analyses.\nFINDINGS: Our findings indicate that c.209-2delA, His117Gln, Arg141Cys, and Arg226Trp of the PPARA gene are risk variants for schizophrenia. The c.209-2delA variant generated a premature termination codon. The three missense variants significantly decreased the activity of PPARα as a transcription factor in vitro. The Ppara KO mice exhibited schizophrenia-relevant phenotypes, including behavioral deficits and impaired synaptogenesis in the cerebral cortex. Oral administration of fenofibrate alleviated spine pathology induced by phencyclidine, an N-methyl-d-aspartate (NMDA) receptor antagonist. Furthermore, pre-treatment with fenofibrate suppressed the sensitivity of mice to another NMDA receptor antagonist, MK-801. RNA-seq analysis revealed that PPARα regulates the expression of synaptogenesis signaling pathway-related genes.\nINTERPRETATION: The findings of this study indicate that the mechanisms underlying schizophrenia pathogenesis involve PPARα-regulated transcriptional machinery and modulation of synapse physiology. Hence, PPARα can serve as a novel therapeutic target for schizophrenia.",
+		"container-title": "EBioMedicine",
+		"DOI": "10.1016/j.ebiom.2020.103130",
+		"ISSN": "2352-3964",
+		"journalAbbreviation": "EBioMedicine",
+		"language": "eng",
+		"note": "PMID: 33279456\nPMCID: PMC7728824",
+		"page": "103130",
+		"source": "PubMed",
+		"title": "Peroxisome proliferator-activated receptor α as a novel therapeutic target for schizophrenia",
+		"volume": "62",
+		"author": [
+			{
+				"family": "Wada",
+				"given": "Yuina"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Matsuoka",
+				"given": "Shigeru"
+			},
+			{
+				"family": "Iwamoto",
+				"given": "Kazuya"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Ohba",
+				"given": "Hisako"
+			},
+			{
+				"family": "Watanabe",
+				"given": "Akiko"
+			},
+			{
+				"family": "Hisano",
+				"given": "Yasuko"
+			},
+			{
+				"family": "Nozaki",
+				"given": "Yayoi"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Shimogori",
+				"given": "Tomomi"
+			},
+			{
+				"family": "Itokawa",
+				"given": "Masanari"
+			},
+			{
+				"family": "Kobayashi",
+				"given": "Tetsuyuki"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8251208/items/C37985EB",
 		"type": "article-journal",
 		"abstract": "OBJECTIVE: India reported its first coronavirus disease 2019 (COVID-19) case in the state of Kerala and an outbreak initiated subsequently. The Department of Health Services, Government of Kerala, initially released daily updates through daily textual bulletins for public awareness to control the spread of the disease. However, these unstructured data limit upstream applications, such as visualization, and analysis, thus demanding refinement to generate open and reusable datasets.\nMATERIALS AND METHODS: Through a citizen science initiative, we leveraged publicly available and crowd-verified data on COVID-19 outbreak in Kerala from the government bulletins and media outlets to generate reusable datasets. This was further visualized as a dashboard through a front-end Web application and a JSON (JavaScript Object Notation) repository, which serves as an application programming interface for the front end.\nRESULTS: From the sourced data, we provided real-time analysis, and daily updates of COVID-19 cases in Kerala, through a user-friendly bilingual dashboard (https://covid19kerala.info/) for nonspecialists. To ensure longevity and reusability, the dataset was deposited in an open-access public repository for future analysis. Finally, we provide outbreak trends and demographic characteristics of the individuals affected with COVID-19 in Kerala during the first 138 days of the outbreak.\nDISCUSSION: We anticipate that our dataset can form the basis for future studies, supplemented with clinical and epidemiological data from the individuals affected with COVID-19 in Kerala.\nCONCLUSIONS: We reported a citizen science initiative on the COVID-19 outbreak in Kerala to collect and deposit data in a structured format, which was utilized for visualizing the outbreak trend and describing demographic characteristics of affected individuals.",
 		"container-title": "Journal of the American Medical Informatics Association: JAMIA",
@@ -94,7 +2630,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/GMK9TCPq/items/4G6ZCQ24",
+		"id": "http://zotero.org/users/8251208/items/9MC3A74C",
 		"type": "article-journal",
 		"abstract": "We previously identified quantitative trait loci (QTL) for prepulse inhibition (PPI), an endophenotype of schizophrenia, on mouse chromosome 10 and reported Fabp7 as a candidate gene from an analysis of F2 mice from inbred strains with high (C57BL/6N; B6) and low (C3H/HeN; C3H) PPI levels. Here, we reanalyzed the previously reported QTLs with increased marker density. The highest logarithm of odds score (26.66) peaked at a synonymous coding and splice-site variant, c.753G>A (rs257098870), in the Cdh23 gene on chromosome 10; the c.753G (C3H) allele showed a PPI-lowering effect. Bayesian multiple QTL mapping also supported the same variant with a posterior probability of 1. Thus, we engineered the c.753G (C3H) allele into the B6 genetic background, which led to dampened PPI. We also revealed an e-QTL (expression QTL) effect imparted by the c.753G>A variant for the Cdh23 expression in the brain. In a human study, a homologous variant (c.753G>A; rs769896655) in CDH23 showed a nominally significant enrichment in individuals with schizophrenia. We also identified multiple potentially deleterious CDH23 variants in individuals with schizophrenia. Collectively, the present study reveals a PPI-regulating Cdh23 variant and a possible contribution of CDH23 to schizophrenia susceptibility.",
 		"container-title": "Schizophrenia Bulletin",
@@ -191,74 +2727,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/GMK9TCPq/items/887KF5LK",
-		"type": "article-journal",
-		"abstract": "Carbonyl stress, a specific form of oxidative stress, is reported to be involved in the pathophysiology of schizophrenia; however, little is known regarding the underlying mechanism. Here, we found that disruption of GLO1, the gene encoding a major catabolic enzyme scavenging the carbonyl group, increases vulnerability to external carbonyl stress, leading to abnormal phenotypes in human induced pluripotent stem cells (hiPSCs). The viability of GLO1 knockout (KO)-hiPSCs decreased and activity of caspase-3 was increased upon addition of methylglyoxal (MGO), a reactive carbonyl compound. In the GLO1 KO-hiPSC-derived neurons, MGO administration impaired neurite extension and cell migration. Further, accumulation of methylglyoxal-derived hydroimidazolone (MG-H1; a derivative of MGO)-modified proteins was detected in isolated mitochondria. Mitochondrial dysfunction, including diminished membrane potential and dampened respiratory function, was observed in the GLO1 KO-hiPSCs and derived neurons after addition of MGO and hence might be the mechanism underlying the effects of carbonyl stress. The susceptibility to MGO was partially rescued by the administration of pyridoxamine, a carbonyl scavenger. Our observations can be used for designing an intervention strategy for diseases, particularly those induced by enhanced carbonyl stress or oxidative stress.",
-		"container-title": "Translational Psychiatry",
-		"DOI": "10.1038/s41398-021-01392-w",
-		"ISSN": "2158-3188",
-		"issue": "1",
-		"journalAbbreviation": "Transl Psychiatry",
-		"language": "eng",
-		"note": "PMID: 33966051\nPMCID: PMC8106684",
-		"page": "275",
-		"source": "PubMed",
-		"title": "Glyoxalase I disruption and external carbonyl stress impair mitochondrial function in human induced pluripotent stem cells and derived neurons",
-		"volume": "11",
-		"author": [
-			{
-				"family": "Hara",
-				"given": "Tomonori"
-			},
-			{
-				"family": "Toyoshima",
-				"given": "Manabu"
-			},
-			{
-				"family": "Hisano",
-				"given": "Yasuko"
-			},
-			{
-				"family": "Balan",
-				"given": "Shabeesh"
-			},
-			{
-				"family": "Iwayama",
-				"given": "Yoshimi"
-			},
-			{
-				"family": "Aono",
-				"given": "Harumi"
-			},
-			{
-				"family": "Futamura",
-				"given": "Yushi"
-			},
-			{
-				"family": "Osada",
-				"given": "Hiroyuki"
-			},
-			{
-				"family": "Owada",
-				"given": "Yuji"
-			},
-			{
-				"family": "Yoshikawa",
-				"given": "Takeo"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2021",
-					5,
-					8
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/GMK9TCPq/items/4VHXQ4PK",
+		"id": "http://zotero.org/users/8251208/items/EXQBJ4ZQ",
 		"type": "article-journal",
 		"abstract": "The molecular mechanisms underlying neurodevelopmental disorders (NDDs) remain unclear. We previously identified Down syndrome cell adhesion molecule like 1 (Dscaml1) as a responsible gene for Ihara epileptic rat (IER), a rat model for human NDDs with epilepsy. However, the relationship between NDDs and DSCAML1 in humans is still elusive. In this study, we screened databases of autism spectrum disorders (ASD), intellectual disability (ID)/developmental disorders (DD) and schizophrenia for genomic mutations in human DSCAML1. We then performed in silico analyses to estimate the potential damage to the mutated DSCAML1 proteins and chose three representative mutations (DSCAML1C729R , DSCAML1R1685* and DSCAML1K2108Nfs*37 ), which lacked a cysteine residue in the seventh Ig domain, the intracellular region and the C-terminal PDZ-binding motif, respectively. In overexpression experiments in a cell line, DSCAML1C729R lost its mature N-glycosylation, whereas DSCAML1K2108Nfs*37 was abnormally degraded via proteasome-dependent protein degradation. Furthermore, in primary hippocampal neurons, the ability of the wild-type DSCAML1 to regulate the number of synapses was lost with all mutant proteins. These results provide insight into understanding the roles of the domains in the DSCAML1 protein and further suggest that these mutations cause functional changes, albeit through different mechanisms, that likely affect the pathophysiology of NDDs.",
 		"container-title": "Genes to Cells: Devoted to Molecular & Cellular Mechanisms",
@@ -324,56 +2793,144 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/GMK9TCPq/items/9GKTZ79V",
+		"id": "http://zotero.org/users/8251208/items/U3DETV8T",
 		"type": "article-journal",
-		"abstract": "Structural changes in the corpus callosum have been reported in schizophrenia; however, the underlying molecular mechanism remains unclear. As the corpus callosum is high in lipid content, we analyzed the lipid contents of the corpora callosa from 15 patients with schizophrenia and 15 age- and sex-matched controls using liquid chromatography coupled to tandem mass spectrometry and identified lipid combinations associated with schizophrenia. Real-time quantitative polymerase chain reaction analyses using extended samples (schizophrenia, n = 95; control, n = 91) showed low expression levels of lipid metabolism-related genes and their potential upstream transcription factors in schizophrenia. Subsequent pathway analysis identified a gene regulatory network where nuclear factor of activated T cells 2 (NFATC2) is placed most upstream. We also observed low gene expression levels of microglial markers, inflammatory cytokines, and colony-stimulating factor 1 receptor (CSF1R), which is known to regulate the density of microglia, in the corpus callosum in schizophrenia. The interactions between CSF1R and several genes in the presently identified gene network originating from NFATC2 have been reported. Collectively, this study provides evidence regarding lipid abnormalities in the corpora callosa of patients with schizophrenia and proposes the potential role of impaired \"NFATC2-relevant gene network-microglial axis\" as its underlying mechanism.",
-		"container-title": "Cerebral Cortex (New York, N.Y.: 1991)",
-		"DOI": "10.1093/cercor/bhaa236",
-		"ISSN": "1460-2199",
-		"issue": "1",
-		"journalAbbreviation": "Cereb Cortex",
+		"abstract": "Genomic defects with large effect size can help elucidate unknown pathologic architecture of mental disorders. We previously reported on a patient with schizophrenia and a balanced translocation between chromosomes 4 and 13 and found that the breakpoint within chromosome 4 is located near the LDB2 gene. We show here that Ldb2 knockout (KO) mice displayed multiple deficits relevant to mental disorders. In particular, Ldb2 KO mice exhibited deficits in the fear-conditioning paradigm. Analysis of the amygdala suggested that dysregulation of synaptic activities controlled by the immediate early gene Arc is involved in the phenotypes. We show that LDB2 forms protein complexes with known transcription factors. Consistently, ChIP-seq analyses indicated that LDB2 binds to > 10,000 genomic sites in human neurospheres. We found that many of those sites, including the promoter region of ARC, are occupied by EGR transcription factors. Our previous study showed an association of the EGR family genes with schizophrenia. Collectively, the findings suggest that dysregulation in the gene expression controlled by the LDB2-EGR axis underlies a pathogenesis of subset of mental disorders.",
+		"container-title": "EMBO molecular medicine",
+		"DOI": "10.15252/emmm.202012574",
+		"ISSN": "1757-4684",
+		"issue": "4",
+		"journalAbbreviation": "EMBO Mol Med",
 		"language": "eng",
-		"note": "PMID: 32924060\nPMCID: PMC7727339",
-		"page": "448-462",
+		"note": "PMID: 33656268\nPMCID: PMC8033514",
+		"page": "e12574",
 		"source": "PubMed",
-		"title": "Lipid Pathology of the Corpus Callosum in Schizophrenia and the Potential Role of Abnormal Gene Regulatory Networks with Reduced Microglial Marker Expression",
-		"volume": "31",
+		"title": "Cooperation of LIM domain-binding 2 (LDB2) with EGR in the pathogenesis of schizophrenia",
+		"volume": "13",
 		"author": [
 			{
-				"family": "Shimamoto-Mitsuyama",
-				"given": "Chie"
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Kiyama",
+				"given": "Yuji"
+			},
+			{
+				"family": "Arima-Yoshida",
+				"given": "Fumiko"
+			},
+			{
+				"family": "Kadota",
+				"given": "Mitsutaka"
+			},
+			{
+				"family": "Ichikawa",
+				"given": "Tomoe"
+			},
+			{
+				"family": "Yamada",
+				"given": "Kazuyuki"
+			},
+			{
+				"family": "Watanabe",
+				"given": "Akiko"
+			},
+			{
+				"family": "Ohba",
+				"given": "Hisako"
+			},
+			{
+				"family": "Tanaka",
+				"given": "Kaori"
 			},
 			{
 				"family": "Nakaya",
 				"given": "Akihiro"
 			},
 			{
-				"family": "Esaki",
-				"given": "Kayoko"
-			},
-			{
-				"family": "Balan",
-				"given": "Shabeesh"
+				"family": "Horiuchi",
+				"given": "Yasue"
 			},
 			{
 				"family": "Iwayama",
 				"given": "Yoshimi"
 			},
 			{
-				"family": "Ohnishi",
-				"given": "Tetsuo"
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Ogawa",
+				"given": "Itone"
+			},
+			{
+				"family": "Shimamoto-Mitsuyama",
+				"given": "Chie"
 			},
 			{
 				"family": "Maekawa",
 				"given": "Motoko"
 			},
 			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Arai",
+				"given": "Makoto"
+			},
+			{
+				"family": "Miyashita",
+				"given": "Mitsuhiro"
+			},
+			{
+				"family": "Toriumi",
+				"given": "Kazuya"
+			},
+			{
+				"family": "Nozaki",
+				"given": "Yayoi"
+			},
+			{
+				"family": "Kurokawa",
+				"given": "Rumi"
+			},
+			{
+				"family": "Suzuki",
+				"given": "Kazuhiro"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Akane"
+			},
+			{
 				"family": "Toyota",
 				"given": "Tomoko"
 			},
 			{
-				"family": "Dean",
-				"given": "Brian"
+				"family": "Hosoya",
+				"given": "Toshihiko"
+			},
+			{
+				"family": "Okuno",
+				"given": "Hiroyuki"
+			},
+			{
+				"family": "Bito",
+				"given": "Haruhiko"
+			},
+			{
+				"family": "Itokawa",
+				"given": "Masanari"
+			},
+			{
+				"family": "Kuraku",
+				"given": "Shigehiro"
+			},
+			{
+				"family": "Manabe",
+				"given": "Toshiya"
 			},
 			{
 				"family": "Yoshikawa",
@@ -384,86 +2941,63 @@
 			"date-parts": [
 				[
 					"2021",
-					1,
-					1
+					4,
+					9
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/GMK9TCPq/items/S64WMJ2B",
+		"id": "http://zotero.org/users/8251208/items/72Y98D6E",
 		"type": "article-journal",
-		"abstract": "BACKGROUND: The pathophysiology of schizophrenia, a major psychiatric disorder, remains elusive. In this study, the role of peroxisome proliferator-activated receptor (PPAR)/retinoid X receptor (RXR) families, belonging to the ligand-activated nuclear receptor superfamily, in schizophrenia, was analyzed.\nMETHODS: The PPAR/RXR family genes were screened by exploiting molecular inversion probe (MIP)-based targeted next-generation sequencing (NGS) using the samples of 1,200 Japanese patients with schizophrenia. The results were compared with the whole-genome sequencing databases of the Japanese cohort (ToMMo) and the gnomAD. To reveal the relationship between PPAR/RXR dysfunction and schizophrenia, Ppara KO mice and fenofibrate (a clinically used PPARα agonist)-administered mice were assessed by performing behavioral, histological, and RNA-seq analyses.\nFINDINGS: Our findings indicate that c.209-2delA, His117Gln, Arg141Cys, and Arg226Trp of the PPARA gene are risk variants for schizophrenia. The c.209-2delA variant generated a premature termination codon. The three missense variants significantly decreased the activity of PPARα as a transcription factor in vitro. The Ppara KO mice exhibited schizophrenia-relevant phenotypes, including behavioral deficits and impaired synaptogenesis in the cerebral cortex. Oral administration of fenofibrate alleviated spine pathology induced by phencyclidine, an N-methyl-d-aspartate (NMDA) receptor antagonist. Furthermore, pre-treatment with fenofibrate suppressed the sensitivity of mice to another NMDA receptor antagonist, MK-801. RNA-seq analysis revealed that PPARα regulates the expression of synaptogenesis signaling pathway-related genes.\nINTERPRETATION: The findings of this study indicate that the mechanisms underlying schizophrenia pathogenesis involve PPARα-regulated transcriptional machinery and modulation of synapse physiology. Hence, PPARα can serve as a novel therapeutic target for schizophrenia.",
-		"container-title": "EBioMedicine",
-		"DOI": "10.1016/j.ebiom.2020.103130",
-		"ISSN": "2352-3964",
-		"journalAbbreviation": "EBioMedicine",
+		"abstract": "Carbonyl stress, a specific form of oxidative stress, is reported to be involved in the pathophysiology of schizophrenia; however, little is known regarding the underlying mechanism. Here, we found that disruption of GLO1, the gene encoding a major catabolic enzyme scavenging the carbonyl group, increases vulnerability to external carbonyl stress, leading to abnormal phenotypes in human induced pluripotent stem cells (hiPSCs). The viability of GLO1 knockout (KO)-hiPSCs decreased and activity of caspase-3 was increased upon addition of methylglyoxal (MGO), a reactive carbonyl compound. In the GLO1 KO-hiPSC-derived neurons, MGO administration impaired neurite extension and cell migration. Further, accumulation of methylglyoxal-derived hydroimidazolone (MG-H1; a derivative of MGO)-modified proteins was detected in isolated mitochondria. Mitochondrial dysfunction, including diminished membrane potential and dampened respiratory function, was observed in the GLO1 KO-hiPSCs and derived neurons after addition of MGO and hence might be the mechanism underlying the effects of carbonyl stress. The susceptibility to MGO was partially rescued by the administration of pyridoxamine, a carbonyl scavenger. Our observations can be used for designing an intervention strategy for diseases, particularly those induced by enhanced carbonyl stress or oxidative stress.",
+		"container-title": "Translational Psychiatry",
+		"DOI": "10.1038/s41398-021-01392-w",
+		"ISSN": "2158-3188",
+		"issue": "1",
+		"journalAbbreviation": "Transl Psychiatry",
 		"language": "eng",
-		"note": "PMID: 33279456\nPMCID: PMC7728824",
-		"page": "103130",
+		"note": "PMID: 33966051\nPMCID: PMC8106684",
+		"page": "275",
 		"source": "PubMed",
-		"title": "Peroxisome proliferator-activated receptor α as a novel therapeutic target for schizophrenia",
-		"volume": "62",
+		"title": "Glyoxalase I disruption and external carbonyl stress impair mitochondrial function in human induced pluripotent stem cells and derived neurons",
+		"volume": "11",
 		"author": [
 			{
-				"family": "Wada",
-				"given": "Yuina"
+				"family": "Hara",
+				"given": "Tomonori"
 			},
 			{
-				"family": "Maekawa",
-				"given": "Motoko"
-			},
-			{
-				"family": "Ohnishi",
-				"given": "Tetsuo"
-			},
-			{
-				"family": "Balan",
-				"given": "Shabeesh"
-			},
-			{
-				"family": "Matsuoka",
-				"given": "Shigeru"
-			},
-			{
-				"family": "Iwamoto",
-				"given": "Kazuya"
-			},
-			{
-				"family": "Iwayama",
-				"given": "Yoshimi"
-			},
-			{
-				"family": "Ohba",
-				"given": "Hisako"
-			},
-			{
-				"family": "Watanabe",
-				"given": "Akiko"
+				"family": "Toyoshima",
+				"given": "Manabu"
 			},
 			{
 				"family": "Hisano",
 				"given": "Yasuko"
 			},
 			{
-				"family": "Nozaki",
-				"given": "Yayoi"
+				"family": "Balan",
+				"given": "Shabeesh"
 			},
 			{
-				"family": "Toyota",
-				"given": "Tomoko"
+				"family": "Iwayama",
+				"given": "Yoshimi"
 			},
 			{
-				"family": "Shimogori",
-				"given": "Tomomi"
+				"family": "Aono",
+				"given": "Harumi"
 			},
 			{
-				"family": "Itokawa",
-				"given": "Masanari"
+				"family": "Futamura",
+				"given": "Yushi"
 			},
 			{
-				"family": "Kobayashi",
-				"given": "Tetsuyuki"
+				"family": "Osada",
+				"given": "Hiroyuki"
+			},
+			{
+				"family": "Owada",
+				"given": "Yuji"
 			},
 			{
 				"family": "Yoshikawa",
@@ -473,8 +3007,9 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2020",
-					12
+					"2021",
+					5,
+					8
 				]
 			]
 		}
