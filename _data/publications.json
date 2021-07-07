@@ -1,60 +1,482 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"id": "http://zotero.org/users/local/GMK9TCPq/items/46TZIC9W",
 		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"abstract": "OBJECTIVE: India reported its first coronavirus disease 2019 (COVID-19) case in the state of Kerala and an outbreak initiated subsequently. The Department of Health Services, Government of Kerala, initially released daily updates through daily textual bulletins for public awareness to control the spread of the disease. However, these unstructured data limit upstream applications, such as visualization, and analysis, thus demanding refinement to generate open and reusable datasets.\nMATERIALS AND METHODS: Through a citizen science initiative, we leveraged publicly available and crowd-verified data on COVID-19 outbreak in Kerala from the government bulletins and media outlets to generate reusable datasets. This was further visualized as a dashboard through a front-end Web application and a JSON (JavaScript Object Notation) repository, which serves as an application programming interface for the front end.\nRESULTS: From the sourced data, we provided real-time analysis, and daily updates of COVID-19 cases in Kerala, through a user-friendly bilingual dashboard (https://covid19kerala.info/) for nonspecialists. To ensure longevity and reusability, the dataset was deposited in an open-access public repository for future analysis. Finally, we provide outbreak trends and demographic characteristics of the individuals affected with COVID-19 in Kerala during the first 138 days of the outbreak.\nDISCUSSION: We anticipate that our dataset can form the basis for future studies, supplemented with clinical and epidemiological data from the individuals affected with COVID-19 in Kerala.\nCONCLUSIONS: We reported a citizen science initiative on the COVID-19 outbreak in Kerala to collect and deposit data in a structured format, which was utilized for visualizing the outbreak trend and describing demographic characteristics of affected individuals.",
+		"container-title": "Journal of the American Medical Informatics Association: JAMIA",
+		"DOI": "10.1093/jamia/ocaa203",
+		"ISSN": "1527-974X",
+		"issue": "12",
+		"journalAbbreviation": "J Am Med Inform Assoc",
+		"language": "eng",
+		"note": "PMID: 32761211\nPMCID: PMC7454688",
+		"page": "1913-1920",
+		"source": "PubMed",
+		"title": "A citizen science initiative for open data and visualization of COVID-19 outbreak in Kerala, India",
+		"volume": "27",
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Ulahannan",
+				"given": "Jijo Pulickiyil"
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Narayanan",
+				"given": "Nikhil"
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
+				"family": "Thalhath",
+				"given": "Nishad"
 			},
 			{
-				"family": "Walter",
-				"given": "T."
+				"family": "Prabhakaran",
+				"given": "Prem"
+			},
+			{
+				"family": "Chaliyeduth",
+				"given": "Sreekanth"
+			},
+			{
+				"family": "Suresh",
+				"given": "Sooraj P."
+			},
+			{
+				"family": "Mohammed",
+				"given": "Musfir"
+			},
+			{
+				"family": "Rajeevan",
+				"given": "E."
+			},
+			{
+				"family": "Joseph",
+				"given": "Sindhu"
+			},
+			{
+				"family": "Balakrishnan",
+				"given": "Akhil"
+			},
+			{
+				"family": "Uthaman",
+				"given": "Jeevan"
+			},
+			{
+				"family": "Karingamadathil",
+				"given": "Manoj"
+			},
+			{
+				"family": "Thomas",
+				"given": "Sunil Thonikkuzhiyil"
+			},
+			{
+				"family": "Sureshkumar",
+				"given": "Unnikrishnan"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Vellichirammal",
+				"given": "Neetha Nanoth"
+			},
+			{
+				"literal": "Collective for Open Data Distribution-Keralam (CODD-K) consortium"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
-					2
+					"2020",
+					12,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/GMK9TCPq/items/4G6ZCQ24",
+		"type": "article-journal",
+		"abstract": "We previously identified quantitative trait loci (QTL) for prepulse inhibition (PPI), an endophenotype of schizophrenia, on mouse chromosome 10 and reported Fabp7 as a candidate gene from an analysis of F2 mice from inbred strains with high (C57BL/6N; B6) and low (C3H/HeN; C3H) PPI levels. Here, we reanalyzed the previously reported QTLs with increased marker density. The highest logarithm of odds score (26.66) peaked at a synonymous coding and splice-site variant, c.753G>A (rs257098870), in the Cdh23 gene on chromosome 10; the c.753G (C3H) allele showed a PPI-lowering effect. Bayesian multiple QTL mapping also supported the same variant with a posterior probability of 1. Thus, we engineered the c.753G (C3H) allele into the B6 genetic background, which led to dampened PPI. We also revealed an e-QTL (expression QTL) effect imparted by the c.753G>A variant for the Cdh23 expression in the brain. In a human study, a homologous variant (c.753G>A; rs769896655) in CDH23 showed a nominally significant enrichment in individuals with schizophrenia. We also identified multiple potentially deleterious CDH23 variants in individuals with schizophrenia. Collectively, the present study reveals a PPI-regulating Cdh23 variant and a possible contribution of CDH23 to schizophrenia susceptibility.",
+		"container-title": "Schizophrenia Bulletin",
+		"DOI": "10.1093/schbul/sbab007",
+		"ISSN": "1745-1701",
+		"journalAbbreviation": "Schizophr Bull",
+		"language": "eng",
+		"note": "PMID: 33595068",
+		"page": "sbab007",
+		"source": "PubMed",
+		"title": "Role of an Atypical Cadherin Gene, Cdh23 in Prepulse Inhibition, and Implication of CDH23 in Schizophrenia",
+		"author": [
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Watanabe",
+				"given": "Akiko"
+			},
+			{
+				"family": "Ohba",
+				"given": "Hisako"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Hara",
+				"given": "Tomonori"
+			},
+			{
+				"family": "Hisano",
+				"given": "Yasuko"
+			},
+			{
+				"family": "Miyasaka",
+				"given": "Yuki"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Shimamoto-Mitsuyama",
+				"given": "Chie"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Numata",
+				"given": "Shusuke"
+			},
+			{
+				"family": "Ohmori",
+				"given": "Tetsuro"
+			},
+			{
+				"family": "Shimogori",
+				"given": "Tomomi"
+			},
+			{
+				"family": "Kikkawa",
+				"given": "Yoshiaki"
+			},
+			{
+				"family": "Hayashi",
+				"given": "Takeshi"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/GMK9TCPq/items/887KF5LK",
+		"type": "article-journal",
+		"abstract": "Carbonyl stress, a specific form of oxidative stress, is reported to be involved in the pathophysiology of schizophrenia; however, little is known regarding the underlying mechanism. Here, we found that disruption of GLO1, the gene encoding a major catabolic enzyme scavenging the carbonyl group, increases vulnerability to external carbonyl stress, leading to abnormal phenotypes in human induced pluripotent stem cells (hiPSCs). The viability of GLO1 knockout (KO)-hiPSCs decreased and activity of caspase-3 was increased upon addition of methylglyoxal (MGO), a reactive carbonyl compound. In the GLO1 KO-hiPSC-derived neurons, MGO administration impaired neurite extension and cell migration. Further, accumulation of methylglyoxal-derived hydroimidazolone (MG-H1; a derivative of MGO)-modified proteins was detected in isolated mitochondria. Mitochondrial dysfunction, including diminished membrane potential and dampened respiratory function, was observed in the GLO1 KO-hiPSCs and derived neurons after addition of MGO and hence might be the mechanism underlying the effects of carbonyl stress. The susceptibility to MGO was partially rescued by the administration of pyridoxamine, a carbonyl scavenger. Our observations can be used for designing an intervention strategy for diseases, particularly those induced by enhanced carbonyl stress or oxidative stress.",
+		"container-title": "Translational Psychiatry",
+		"DOI": "10.1038/s41398-021-01392-w",
+		"ISSN": "2158-3188",
+		"issue": "1",
+		"journalAbbreviation": "Transl Psychiatry",
+		"language": "eng",
+		"note": "PMID: 33966051\nPMCID: PMC8106684",
+		"page": "275",
+		"source": "PubMed",
+		"title": "Glyoxalase I disruption and external carbonyl stress impair mitochondrial function in human induced pluripotent stem cells and derived neurons",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Hara",
+				"given": "Tomonori"
+			},
+			{
+				"family": "Toyoshima",
+				"given": "Manabu"
+			},
+			{
+				"family": "Hisano",
+				"given": "Yasuko"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Aono",
+				"given": "Harumi"
+			},
+			{
+				"family": "Futamura",
+				"given": "Yushi"
+			},
+			{
+				"family": "Osada",
+				"given": "Hiroyuki"
+			},
+			{
+				"family": "Owada",
+				"given": "Yuji"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/GMK9TCPq/items/4VHXQ4PK",
+		"type": "article-journal",
+		"abstract": "The molecular mechanisms underlying neurodevelopmental disorders (NDDs) remain unclear. We previously identified Down syndrome cell adhesion molecule like 1 (Dscaml1) as a responsible gene for Ihara epileptic rat (IER), a rat model for human NDDs with epilepsy. However, the relationship between NDDs and DSCAML1 in humans is still elusive. In this study, we screened databases of autism spectrum disorders (ASD), intellectual disability (ID)/developmental disorders (DD) and schizophrenia for genomic mutations in human DSCAML1. We then performed in silico analyses to estimate the potential damage to the mutated DSCAML1 proteins and chose three representative mutations (DSCAML1C729R , DSCAML1R1685* and DSCAML1K2108Nfs*37 ), which lacked a cysteine residue in the seventh Ig domain, the intracellular region and the C-terminal PDZ-binding motif, respectively. In overexpression experiments in a cell line, DSCAML1C729R lost its mature N-glycosylation, whereas DSCAML1K2108Nfs*37 was abnormally degraded via proteasome-dependent protein degradation. Furthermore, in primary hippocampal neurons, the ability of the wild-type DSCAML1 to regulate the number of synapses was lost with all mutant proteins. These results provide insight into understanding the roles of the domains in the DSCAML1 protein and further suggest that these mutations cause functional changes, albeit through different mechanisms, that likely affect the pathophysiology of NDDs.",
+		"container-title": "Genes to Cells: Devoted to Molecular & Cellular Mechanisms",
+		"DOI": "10.1111/gtc.12831",
+		"ISSN": "1365-2443",
+		"issue": "3",
+		"journalAbbreviation": "Genes Cells",
+		"language": "eng",
+		"note": "PMID: 33501714",
+		"page": "136-151",
+		"source": "PubMed",
+		"title": "Potential involvement of DSCAML1 mutations in neurodevelopmental disorders",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Ogata",
+				"given": "Shigehiro"
+			},
+			{
+				"family": "Hashizume",
+				"given": "Koichi"
+			},
+			{
+				"family": "Hayase",
+				"given": "Yoneko"
+			},
+			{
+				"family": "Kanno",
+				"given": "Yukie"
+			},
+			{
+				"family": "Hori",
+				"given": "Kei"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			},
+			{
+				"family": "Takahashi",
+				"given": "Hidehiko"
+			},
+			{
+				"family": "Taya",
+				"given": "Shinichiro"
+			},
+			{
+				"family": "Hoshino",
+				"given": "Mikio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/GMK9TCPq/items/9GKTZ79V",
+		"type": "article-journal",
+		"abstract": "Structural changes in the corpus callosum have been reported in schizophrenia; however, the underlying molecular mechanism remains unclear. As the corpus callosum is high in lipid content, we analyzed the lipid contents of the corpora callosa from 15 patients with schizophrenia and 15 age- and sex-matched controls using liquid chromatography coupled to tandem mass spectrometry and identified lipid combinations associated with schizophrenia. Real-time quantitative polymerase chain reaction analyses using extended samples (schizophrenia, n = 95; control, n = 91) showed low expression levels of lipid metabolism-related genes and their potential upstream transcription factors in schizophrenia. Subsequent pathway analysis identified a gene regulatory network where nuclear factor of activated T cells 2 (NFATC2) is placed most upstream. We also observed low gene expression levels of microglial markers, inflammatory cytokines, and colony-stimulating factor 1 receptor (CSF1R), which is known to regulate the density of microglia, in the corpus callosum in schizophrenia. The interactions between CSF1R and several genes in the presently identified gene network originating from NFATC2 have been reported. Collectively, this study provides evidence regarding lipid abnormalities in the corpora callosa of patients with schizophrenia and proposes the potential role of impaired \"NFATC2-relevant gene network-microglial axis\" as its underlying mechanism.",
+		"container-title": "Cerebral Cortex (New York, N.Y.: 1991)",
+		"DOI": "10.1093/cercor/bhaa236",
+		"ISSN": "1460-2199",
+		"issue": "1",
+		"journalAbbreviation": "Cereb Cortex",
+		"language": "eng",
+		"note": "PMID: 32924060\nPMCID: PMC7727339",
+		"page": "448-462",
+		"source": "PubMed",
+		"title": "Lipid Pathology of the Corpus Callosum in Schizophrenia and the Potential Role of Abnormal Gene Regulatory Networks with Reduced Microglial Marker Expression",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Shimamoto-Mitsuyama",
+				"given": "Chie"
+			},
+			{
+				"family": "Nakaya",
+				"given": "Akihiro"
+			},
+			{
+				"family": "Esaki",
+				"given": "Kayoko"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Dean",
+				"given": "Brian"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/GMK9TCPq/items/S64WMJ2B",
+		"type": "article-journal",
+		"abstract": "BACKGROUND: The pathophysiology of schizophrenia, a major psychiatric disorder, remains elusive. In this study, the role of peroxisome proliferator-activated receptor (PPAR)/retinoid X receptor (RXR) families, belonging to the ligand-activated nuclear receptor superfamily, in schizophrenia, was analyzed.\nMETHODS: The PPAR/RXR family genes were screened by exploiting molecular inversion probe (MIP)-based targeted next-generation sequencing (NGS) using the samples of 1,200 Japanese patients with schizophrenia. The results were compared with the whole-genome sequencing databases of the Japanese cohort (ToMMo) and the gnomAD. To reveal the relationship between PPAR/RXR dysfunction and schizophrenia, Ppara KO mice and fenofibrate (a clinically used PPARα agonist)-administered mice were assessed by performing behavioral, histological, and RNA-seq analyses.\nFINDINGS: Our findings indicate that c.209-2delA, His117Gln, Arg141Cys, and Arg226Trp of the PPARA gene are risk variants for schizophrenia. The c.209-2delA variant generated a premature termination codon. The three missense variants significantly decreased the activity of PPARα as a transcription factor in vitro. The Ppara KO mice exhibited schizophrenia-relevant phenotypes, including behavioral deficits and impaired synaptogenesis in the cerebral cortex. Oral administration of fenofibrate alleviated spine pathology induced by phencyclidine, an N-methyl-d-aspartate (NMDA) receptor antagonist. Furthermore, pre-treatment with fenofibrate suppressed the sensitivity of mice to another NMDA receptor antagonist, MK-801. RNA-seq analysis revealed that PPARα regulates the expression of synaptogenesis signaling pathway-related genes.\nINTERPRETATION: The findings of this study indicate that the mechanisms underlying schizophrenia pathogenesis involve PPARα-regulated transcriptional machinery and modulation of synapse physiology. Hence, PPARα can serve as a novel therapeutic target for schizophrenia.",
+		"container-title": "EBioMedicine",
+		"DOI": "10.1016/j.ebiom.2020.103130",
+		"ISSN": "2352-3964",
+		"journalAbbreviation": "EBioMedicine",
+		"language": "eng",
+		"note": "PMID: 33279456\nPMCID: PMC7728824",
+		"page": "103130",
+		"source": "PubMed",
+		"title": "Peroxisome proliferator-activated receptor α as a novel therapeutic target for schizophrenia",
+		"volume": "62",
+		"author": [
+			{
+				"family": "Wada",
+				"given": "Yuina"
+			},
+			{
+				"family": "Maekawa",
+				"given": "Motoko"
+			},
+			{
+				"family": "Ohnishi",
+				"given": "Tetsuo"
+			},
+			{
+				"family": "Balan",
+				"given": "Shabeesh"
+			},
+			{
+				"family": "Matsuoka",
+				"given": "Shigeru"
+			},
+			{
+				"family": "Iwamoto",
+				"given": "Kazuya"
+			},
+			{
+				"family": "Iwayama",
+				"given": "Yoshimi"
+			},
+			{
+				"family": "Ohba",
+				"given": "Hisako"
+			},
+			{
+				"family": "Watanabe",
+				"given": "Akiko"
+			},
+			{
+				"family": "Hisano",
+				"given": "Yasuko"
+			},
+			{
+				"family": "Nozaki",
+				"given": "Yayoi"
+			},
+			{
+				"family": "Toyota",
+				"given": "Tomoko"
+			},
+			{
+				"family": "Shimogori",
+				"given": "Tomomi"
+			},
+			{
+				"family": "Itokawa",
+				"given": "Masanari"
+			},
+			{
+				"family": "Kobayashi",
+				"given": "Tetsuyuki"
+			},
+			{
+				"family": "Yoshikawa",
+				"given": "Takeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					12
 				]
 			]
 		}
 	}
-]
-
-[
-{
-    "title": "Open Bibliography for Science, Technology and Medicine",
-    "author":[
-        {"name": "Richard Jones"},
-        {"name": "Mark MacGillivray"},
-        {"name": "Peter Murray-Rust"},
-        {"name": "Jim Pitman"},
-        {"name": "Peter Sefton"},
-        {"name": "Ben O'Steen"},
-        {"name": "William Waites"}
-    ],
-    "type": "article",
-    "year": "2011",
-    "journal": {"name": "Journal of Cheminformatics"},
-    "link": [{"url":"http://www.jcheminf.com/content/3/1/47"}],
-    "identifier": [{"type":"doi","id":"10.1186/1758-2946-3-47"}]
-}
 ]
