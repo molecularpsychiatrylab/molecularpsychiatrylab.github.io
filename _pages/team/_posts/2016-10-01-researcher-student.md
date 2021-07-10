@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Researcher Name
 image: researcher.png
-role: PhD Student
+role: Researcher
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
