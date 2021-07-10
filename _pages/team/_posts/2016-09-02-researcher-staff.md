@@ -1,9 +1,9 @@
 ---
 layout: member
 category: staff
-title: Shabeesh Balan
+title: NYI
 image: researcher.png
-role: Scientist
+role: Visiting researcher
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
