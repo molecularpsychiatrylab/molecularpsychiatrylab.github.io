@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Shabeesh Balan
-image: researcher.png
+image: shabeesh.png
 role: Research Scientist
 permalink: 'team/researcher-name'
 social:
