@@ -4,7 +4,7 @@ category: staff
 title: Taro Taro
 image: taro.jpg
 role: Research Scientist
-permalink: 'team/taro'
+permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
