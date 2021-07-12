@@ -4,7 +4,7 @@ category: staff
 title: Taro Riken
 image: researcher1.png
 role: Research Scientist
-permalink: 'team/researcher2-name'
+permalink: 'team/researcher1-name'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
