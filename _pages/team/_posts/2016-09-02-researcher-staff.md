@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Taro Riken
-image: researcher1.png
+image: researcher1.jpg
 role: Research Scientist
 permalink: 'team/researcher-name'
 social:
