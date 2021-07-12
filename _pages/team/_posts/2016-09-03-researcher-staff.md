@@ -4,7 +4,7 @@ category: staff
 title: Yamada Taro
 image: yamada.png
 role: Research Scientist
-permalink: 'team/yamada'
+permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
