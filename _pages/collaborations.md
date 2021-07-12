@@ -1,7 +1,7 @@
 ---
 title: "Collaborations"
 layout: default
-excerpt: "RT2 Lab -- Research"
+excerpt: "collaborations"
 sitemap: false
 permalink: /collaborations/
 ---
