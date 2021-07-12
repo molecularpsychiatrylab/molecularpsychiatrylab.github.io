@@ -4,7 +4,7 @@ category: staff
 title: Shabeesh Balan
 image: researcher.png
 role: Research Scientist
-permalink: 'team/researcher-name'
+permalink: 'team/researcher1-name'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
