@@ -1,5 +1,12 @@
-# **Publications**
+---
+title: "Publications"
+layout: default
+excerpt: "Publications"
+sitemap: false
+permalink: /publications-/
+---
 
+# **Publications**
 
 
 #### **2021**
