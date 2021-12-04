@@ -1,21 +1,10 @@
-- date: 05/09/19
-  title: "Another great thing"
+- date: 24/11/2012
+  title: "Join us"
   tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+    - positions open
+    - post-doctoral researcher
+    - junior research fellow
+  content: We are accepting applications for researchers (Postdoctoral researchers and junior research fellows) in our group. Interested applicants are encouraged to inquire via e-mail. Candidates applying external funding who would like to be hosted by the lab are also encouraged.
+  
 
-- date: 03/09/19
-  title: "Something great"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+
