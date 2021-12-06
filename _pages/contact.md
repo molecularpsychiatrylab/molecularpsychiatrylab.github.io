@@ -6,7 +6,7 @@ sitemap: false
 permalink: /contact/
 ---
 
-##Contact
+## Contact
 
 Neuroscience Research Laboratory, 
 Institute of Mental Health and Neurosciences (IMHANS), 
