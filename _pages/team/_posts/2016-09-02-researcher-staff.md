@@ -1,9 +1,9 @@
 ---
 layout: member
 category: staff
-title: Taro Taro
+title: Mubashira V
 image: taro.jpg
-role: Research Scientist
+role: Junior Research Fellow
 permalink: 'team/researcher-name/taro'
 social:
     twitter: https://twitter.com/
