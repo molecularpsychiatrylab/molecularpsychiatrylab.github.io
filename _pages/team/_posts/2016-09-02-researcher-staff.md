@@ -4,7 +4,7 @@ category: staff
 title: Mubashira V
 image: mubashira.jpg
 role: Junior Research Fellow
-permalink: 'team/researcher-name/mubashira'
+permalink: 'team/researcher-name/Mubashira'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
