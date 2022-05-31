@@ -1,10 +1,10 @@
 ---
 layout: member
 category: staff
-title: Mubashira V
+title: 
 image: mubashira.jpg
-role: Junior Research Fellow
-permalink: 'team/researcher-name/Mubashira'
+role: 
+permalink: 'team/researcher-name/mubashira'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
