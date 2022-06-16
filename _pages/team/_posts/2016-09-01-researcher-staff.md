@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Shabeesh Balan
 image: shabeesh.png
-role: Research Scientist
+role: Scientist D (DHR re-entry Faculty Fellow)
 permalink: 'team/researcher-name/shabeesh'
 social:
     twitter: https://twitter.com/
