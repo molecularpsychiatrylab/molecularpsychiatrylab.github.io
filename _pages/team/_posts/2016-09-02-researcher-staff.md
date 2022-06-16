@@ -14,6 +14,6 @@ social:
     orcid: https://orcid.org/
     research-gate: https://www.researchgate.net/
 education:
- - MSc Biotechnology, CUSAT
+ - MSc Biotechnology, Cochin University of Science & Technology, Kerala
 ---
 
