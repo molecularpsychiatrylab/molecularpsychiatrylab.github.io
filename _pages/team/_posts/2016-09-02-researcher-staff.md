@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Mubashira V
 image: mubashira.jpg
-role: 
+role: Junior Research Fellow
 permalink: 'team/researcher-name/mubashira'
 social:
     twitter: https://twitter.com/
