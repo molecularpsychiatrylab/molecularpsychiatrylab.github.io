@@ -1,10 +1,10 @@
 ---
 layout: member
 category: staff
-title: Yamada Taro
-image: yamada.png
-role: Research Specialist
-permalink: 'team/researcher-name/mubee'
+title: Devangana R
+image: devangana.png
+role: Research intern (University of Glasgow)
+permalink: 'team/researcher-name/devangana'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
