@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Devangana R
-image: devangana.png
+image: devangana.jpg
 role: Research intern (University of Glasgow)
 permalink: 'team/researcher-name/devangana'
 social:
