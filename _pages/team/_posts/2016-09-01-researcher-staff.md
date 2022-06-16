@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Shabeesh Balan
-image: shabeesh.png
+image: shabeesh.jpg
 role: Scientist D (DHR re-entry Faculty Fellow)
 permalink: 'team/researcher-name/shabeesh'
 social:
