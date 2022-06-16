@@ -14,6 +14,6 @@ social:
     orcid: https://orcid.org/
     research-gate: https://www.researchgate.net/
 education:
- - Education: MSc Biotechnology, CUSAT
+ - MSc Biotechnology, CUSAT
 ---
 
