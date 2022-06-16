@@ -1,7 +1,7 @@
 ---
 layout: member
 category: staff
-title: 
+title: Mubashira V
 image: mubashira.jpg
 role: 
 permalink: 'team/researcher-name/mubashira'
