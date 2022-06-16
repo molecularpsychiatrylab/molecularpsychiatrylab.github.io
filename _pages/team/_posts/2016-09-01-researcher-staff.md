@@ -14,7 +14,8 @@ social:
     orcid: https://orcid.org/
     research-gate: https://www.researchgate.net/
 education:
- - Education
+ - PhD Genetics (Sree Chitra Tirunal Institute for Medical Sciences & Technology, Trivandrum)
+ - MSc Biotechnology (School of Life Sciences, Kannur University)
 ---
 
-Lorem ipsum dolor sit amet, 
+ 
