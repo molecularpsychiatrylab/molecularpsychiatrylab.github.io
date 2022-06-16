@@ -19,20 +19,20 @@ education:
 ---
 
 * Adjunct Faculty: 2020 November – 2021 December
-Neuroscience Research Laboratory, Institute of Mental Health and Neurosciences (IMHANS), Calicut, Kerala, India
+<br/> Neuroscience Research Laboratory, Institute of Mental Health and Neurosciences (IMHANS), Calicut, Kerala, India
 
 * Research Scientist: 2018 September – 2021 March
-Laboratory for Molecular Psychiatry, RIKEN Centre for Brain Science, Wakoshi, Saitama, Japan
+<br/> Laboratory for Molecular Psychiatry, RIKEN Centre for Brain Science, Wakoshi, Saitama, Japan
 
 * Visiting Scientist: 2020 September – 2021 March
-Department of Psychiatry & Behavioral Sciences (Schizophrenia Research Project), The Tokyo Metropolitan Institute of Medical Science (TMiMS)
+<br/> Department of Psychiatry & Behavioral Sciences (Schizophrenia Research Project), The Tokyo Metropolitan Institute of Medical Science (TMiMS)
 
 * Visiting Researcher (JSPS Postdoctoral Fellowship): 2016 September – 2018 August
-Laboratory for Molecular Psychiatry, RIKEN Centre for Brain Science, Wakoshi, Saitama, Japan
+<br/> Laboratory for Molecular Psychiatry, RIKEN Centre for Brain Science, Wakoshi, Saitama, Japan
 
 * Research Scientist: 2013 May - 2016 August
-Laboratory for Molecular Psychiatry, RIKEN Brain Science Institute, Wakoshi, Saitama, Japan
+<br/> Laboratory for Molecular Psychiatry, RIKEN Brain Science Institute, Wakoshi, Saitama, Japan
 
 * Research Technical Staff I: 2012 October - 2013 April
-Laboratory for Molecular Psychiatry, RIKEN Brain Science Institute, Wakoshi, Saitama, Japan
+<br/> Laboratory for Molecular Psychiatry, RIKEN Brain Science Institute, Wakoshi, Saitama, Japan
 
